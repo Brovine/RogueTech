@@ -32,7 +32,7 @@
     }
   ],
   "Description": {
-    "Cost": 6151869,
+    "Cost": 6097232,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": "",
@@ -40,7 +40,7 @@
     "UIName": "Leviathan",
     "Id": "chassisdef_leviathan_LVT-C",
     "Name": "Leviathan",
-    "Details": "The Leviathan is an attempt at creating the most powerful and supersized mech imaginable.\n\n<b><color=#e62e00>Quirk: Distracting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.48</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The Leviathan is an attempt at creating the most powerful and supersized mech imaginable.\n\n<b><color=#e62e00>Quirk: Distracting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.48</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "Leviathan"
   },
   "VariantName": "LVT-C",
@@ -106,6 +106,14 @@
       "Location": "LeftArm",
       "Hardpoints": [
         {
+          "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
+        {
+          "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
+        {
           "WeaponMountID": "Energy",
           "Omni": false
         },
@@ -128,7 +136,11 @@
       "Location": "LeftTorso",
       "Hardpoints": [
         {
-          "WeaponMountID": "Energy",
+          "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
+        {
+          "WeaponMountID": "Ballistic",
           "Omni": false
         },
         {
@@ -165,14 +177,6 @@
       "Hardpoints": [
         {
           "WeaponMountID": "Ballistic",
-          "Omni": false
-        },
-        {
-          "WeaponMountID": "Ballistic",
-          "Omni": false
-        },
-        {
-          "WeaponMountID": "Energy",
           "Omni": false
         },
         {

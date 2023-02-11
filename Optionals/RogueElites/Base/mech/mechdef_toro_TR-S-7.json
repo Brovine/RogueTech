@@ -40,7 +40,7 @@
     "UIName": "Toro TR-S-7",
     "Id": "mechdef_toro_TR-S-7",
     "Name": "Toro TR-S-7",
-    "Details": "Produced in 2546, the Toro was the Taurian Concordant’s first battlemech design. Based on captured Firebees, the Toro is a long range support mech.  Armed with a PPC and a pair of LRM-5s the Toro carried two tons of ammo and 10 single heat sinks. The last Toro factory was demolished in 2598 by invading Star League troops and production would not resume until the Word of Blake Jihad.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Lower</color>\n\n",
+    "Details": "Produced in 2546, the Toro was the Taurian Concordant’s first battlemech design. Based on captured Firebees, the Toro is a long range support mech.  Armed with a PPC and a pair of LRM-5s the Toro carried two tons of ammo and 10 single heat sinks. The last Toro factory was demolished in 2598 by invading Star League troops and production would not resume until the Word of Blake Jihad.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
     "Icon": "Toro"
   },
   "simGameMechPartCost": 128810,
@@ -48,19 +48,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -93,28 +93,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

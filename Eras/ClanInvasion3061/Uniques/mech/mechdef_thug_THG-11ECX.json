@@ -61,7 +61,7 @@
     "UIName": "Thug THG-11ECX",
     "Id": "mechdef_thug_THG-11ECX",
     "Name": "Thug THG-11ECX",
-    "Details": "Piloted by mercenary Jose Magellan during the fall of the Star League, this Thug variant replaces the standard engine with an extralight model. The PPCs are replaced by ER Large Lasers. In the space freed by the XL Engine, Magellan installed three more SRM-6 launchers, for a total of five. The cockpit adds a Command Console to allow a Rim Worlds commander to see the entire battlefield. Four jump jets allow the Thug Jose to cover 120 meters at a time. Finally, a Null Signature System interfered with SLDF targeting systems.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - Energy</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.19</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "Piloted by mercenary Jose Magellan during the fall of the Star League, this Thug variant replaces the standard engine with an extralight model. The PPCs are replaced by ER Large Lasers. In the space freed by the XL Engine, Magellan installed three more SRM-6 launchers, for a total of five. The cockpit adds a Command Console to allow a Rim Worlds commander to see the entire battlefield. Four jump jets allow the Thug Jose to cover 120 meters at a time. Finally, a Null Signature System interfered with SLDF targeting systems.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - Energy</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.19</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_thug"
   },
   "simGameMechPartCost": 402321,
@@ -69,19 +69,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -114,28 +114,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

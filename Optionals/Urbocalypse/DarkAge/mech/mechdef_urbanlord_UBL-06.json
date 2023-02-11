@@ -102,7 +102,7 @@
     "UIName": "Urbanlord UBL-06",
     "Id": "mechdef_urbanlord_UBL-06",
     "Name": "Urbanlord UBL-06",
-    "Details": "The UrbanLord appears to be a very heavy counterpart to the much older UrbanMech, weighing in at 70 metric tons, making it two entire weightclasses heavier than the UM-R60 UrbanMech.\n\n<b><color=#e62e00>Quirk: 360° Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.93</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The UrbanLord appears to be a very heavy counterpart to the much older UrbanMech, weighing in at 70 metric tons, making it two entire weightclasses heavier than the UM-R60 UrbanMech.\n\n<b><color=#e62e00>Quirk: 360° Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.93</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_urbanmech"
   },
   "simGameMechPartCost": 344301,
@@ -110,19 +110,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -155,28 +155,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 150,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 150,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 150,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 150,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

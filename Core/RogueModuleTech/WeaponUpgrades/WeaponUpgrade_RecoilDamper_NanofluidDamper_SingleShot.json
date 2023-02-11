@@ -6,13 +6,13 @@
   ],
   "modes": [
     {
-      "Id": "!NONE!",
+      "Id": "BASE",
       "UIName": "Damper",
       "Name": "Recoil Damper",
       "Description": "Weapon fires with Recoil Dampening enabled",
       "isBaseMode": true,
       "RefireModifier": -2,
-      "HeatGeneratedModifier": 1.03
+      "HeatGeneratedModifier": 0.03
     }
   ]
 }

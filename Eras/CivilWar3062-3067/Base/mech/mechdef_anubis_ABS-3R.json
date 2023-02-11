@@ -33,7 +33,7 @@
   },
   "ChassisID": "chassisdef_anubis_ABS-3R",
   "Description": {
-    "Cost": 73807,
+    "Cost": 73182,
     "Rarity": 0,
     "Purchasable": true,
     "Manufacturer": null,
@@ -41,27 +41,27 @@
     "UIName": "Anubis ABS-3R",
     "Id": "mechdef_anubis_ABS-3R",
     "Name": "Anubis ABS-3R",
-    "Details": "Designed by Fredonian Industrial Technologies, the Anubis was originally designed to compliment the Osiris BattleMech in use by the Federated Suns. The 'Mech's lightweight chassis carries a powerful Ceres Motors 250 XL engine that gives the Anubis a top speed of 129.6 km/h and is covered in a protective skin of Hellespont Lite Stealth Armor, making the Anubis extremely hard to hit at long range. The 3R variant is meant to increase its short term and short range firepower, the 3R removes two of the LRM-5 launchers and replaces them with two Rocket Launcher 10s and two Rocket Launcher 15s.\n\n<b><color=#e62e00>Quirk: Extended Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "Designed by Fredonian Industrial Technologies, the Anubis was originally designed to compliment the Osiris BattleMech in use by the Federated Suns. The 'Mech's lightweight chassis carries a powerful Ceres Motors 250 XL engine that gives the Anubis a top speed of 129.6 km/h and is covered in a protective skin of Hellespont Lite Stealth Armor, making the Anubis extremely hard to hit at long range. The 3R variant is meant to increase its short term and short range firepower, the 3R removes two of the LRM-5 launchers and replaces them with two Rocket Launcher 10s and two Rocket Launcher 15s.\n\n<b><color=#e62e00>Quirk: Extended Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "anubis"
   },
-  "simGameMechPartCost": 73807,
+  "simGameMechPartCost": 73182,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 25,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -94,28 +94,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 25,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

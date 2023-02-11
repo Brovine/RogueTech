@@ -133,6 +133,18 @@
       "Full": "Damage decreased based on your evasion. Base damage multiplied by number of Evasion Pips to the power of {0}"
     },
     {
+      "Bonus": "HeatPerChargeHex",
+      "Short": "{0} HeatPerCharge",
+      "Long": "{0} HeatPerCharge",
+      "Full": "Heat Change based on hexes moved. Base Heat multiplied by number of hexes moved to the power of {0}"
+    },
+    {
+      "Bonus": "HexMovedExponent",
+      "Short": "{0} M.Multiplier",
+      "Long": "{0} Moved Multiplier",
+      "Full": "Damage increased based on hexes moved. Base damage multiplied by number of hexes moved to the power of {0}"
+    },
+    {
       "Bonus": "Clustering",
       "Short": "{0} Clustering",
       "Long": "{0} Clustering",
@@ -400,7 +412,7 @@
       "Bonus": "AreaOfEffectDmg",
       "Short": "AOEDmg",
       "Long": "AOE {0} Dmg",
-      "Full": "{0} area-of-effect damage to units in radius."
+      "Full": "Up to {0} area-of-effect damage to units in radius.  Units further from the point of impact take less damage"
     },
     {
       "Bonus": "AreaOfEffectHeatDmg",
@@ -691,28 +703,46 @@
       "Full": "Requires Partial Wings to be installed"
     },
     {
-      "Bonus": "DakkaBoom",
-      "Short": "Volatile",
-      "Long": "Volatile Ammo Feed",
-      "Full": "Weapon can explode for {0} damage per shot loaded when destroyed"
+      "Bonus": "AmmoBoxExplosionDHS",
+      "Short": "Ammo Can Explode",
+      "Long": "Ammo Can Explode",
+      "Full": "Ammunition Box can explode for {0} damage, {1} heat and {2} stability per remaining shot"
     },
     {
-      "Bonus": "WeaponGaussBoom",
+      "Bonus": "AmmoBoxExplosionH",
+      "Short": "Ammo Can Explode",
+      "Long": "Ammo Can Explode",
+      "Full": "Ammunition Box can explode for {0} heat per remaining shot"
+    },
+    {
+      "Bonus": "WeaponExplosionPerLoadedShot",
+      "Short": "Volatile",
+      "Long": "Volatile Ammo Feed",
+      "Full": "Weapon can explode for {0} damage, {1} heat and {2} stability per shot loaded when destroyed"
+    },
+    {
+      "Bonus": "WeaponExplosionInternalAmmo",
+      "Short": "Int Ammo Can Explode",
+      "Long": "Int Ammo Can Explode",
+      "Full": "Internal Ammo Storage can explode for {0} damage, {1} heat and {2} stability per remaining shot on weapon destruction."
+    },    
+    {
+      "Bonus": "WeaponExplosionInertAmmo",
       "Short": "Volatile",
       "Long": "Volatile Capacitors",
-      "Full": "High-Energy Capacitors discharge violently for {0} damage per shot loaded when destroyed"
+      "Full": "High-Energy Capacitors discharge violently for {0} damage, {1} heat and {2} stability per loaded ammunition on weapon destruction"
+    },
+    {
+      "Bonus": "WeaponExplosionNoAmmo",
+      "Short": "Volatile",
+      "Long": "Volatile Capacitors",
+      "Full": "High-Energy Capacitors discharge violently for {0} damage, {1} heat and {2} stability on weapon destruction"
     },
     {
       "Bonus": "CapacitorBoom",
       "Short": "Volatile",
       "Long": "Volatile Capacitors",
       "Full": "High-Energy Capacitors discharge violently for {0} damage when destroyed"
-    },
-    {
-      "Bonus": "AMSBoom",
-      "Short": "Volatile",
-      "Long": "Internal Ammo",
-      "Full": "Internal AMS can explode for {0} damage"
     },
     {
       "Bonus": "GenericAOEBoom",
@@ -806,7 +836,7 @@
     },
     {
       "Bonus": "MultiTracker",
-      "Short": "MT",
+      "Short": "MultiTrack",
       "Long": "Multi-Track",
       "Full": "Enables Targeting up to 3 Units."
     },
@@ -1513,16 +1543,10 @@
       "Full": "{0} accuracy with ranged weapons."
     },
     {
-      "Bonus": "Turret",
+      "Bonus": "AccuracyLocation",
       "Short": "{0} Acc",
       "Long": "{0} Accuracy",
-      "Full": "{0} accuracy to weapons mounted in the same location."
-    },
-    {
-      "Bonus": "ArmAccuracy",
-      "Short": "{0} Arm Acc",
-      "Long": "{0} Arm Accuracy",
-      "Full": "{0} accuracy with arm-mounted weapons."
+      "Full": "{0} accuracy for weapons mounted in the same location."
     },
     {
       "Bonus": "LaserAccuracy",
@@ -2255,7 +2279,7 @@
       "Short": "MoveCurse",
       "Long": "Movement Curse",
       "Full": "Curse: Causes all enemies to have a chance to fall over after moving."
-    },    
+    },
     {
       "Bonus": "RestrictedLocations",
       "Short": "{0}Only",

@@ -92,8 +92,8 @@
       "component_type_stock",
       "range_long",
       "BAIncompatible",
-      "ApolloMRMUnlockable",
-      "MRM.{location}"
+      "MRM.{location}",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

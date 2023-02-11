@@ -70,7 +70,7 @@
   },
   "ChassisID": "chassisdef_franky_MU-TT7",
   "Description": {
-    "Cost": 155943,
+    "Cost": 154533,
     "Rarity": 1,
     "Purchasable": true,
     "Manufacturer": null,
@@ -78,27 +78,27 @@
     "UIName": "Franky MU-TT7",
     "Id": "mechdef_franky_MU-TT7",
     "Name": "Franky MU-TT7",
-    "Details": "The Franky is a typical periphery Frankenmech sporting a weird array of weaponry and being cobbled together from many different MechParts\n\n<b><color=#e62e00>Quirk: Ubiquitous</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Lower</color>\n\n",
+    "Details": "The Franky is a typical periphery Frankenmech sporting a weird array of weaponry and being cobbled together from many different MechParts\n\n<b><color=#e62e00>Quirk: Ubiquitous</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
     "Icon": "franky"
   },
-  "simGameMechPartCost": 155943,
+  "simGameMechPartCost": 154533,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 60,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 60,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -131,28 +131,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 60,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 60,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 85,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 85,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 85,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 85,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

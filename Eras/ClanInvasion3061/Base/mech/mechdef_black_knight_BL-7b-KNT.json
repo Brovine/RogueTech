@@ -37,7 +37,7 @@
   },
   "ChassisID": "chassisdef_black_knight_BL-7b-KNT",
   "Description": {
-    "Cost": 390321,
+    "Cost": 386818,
     "Rarity": 5,
     "Purchasable": false,
     "Manufacturer": null,
@@ -48,24 +48,24 @@
     "Details": "The Black Knight 7B is a refit made for and sold to Mercenary Commanders deeply in favour with the Federated Commonwealth, sporting advanced Technologies and Prototype X-Pulse Laser.\n\n<b><color=#e62e00>Quirk: Command Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>",
     "Icon": "uixTxrIcon_blackknight"
   },
-  "simGameMechPartCost": 390321,
+  "simGameMechPartCost": 386818,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -98,28 +98,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

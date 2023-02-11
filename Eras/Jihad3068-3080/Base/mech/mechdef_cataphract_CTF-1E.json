@@ -35,7 +35,7 @@
   },
   "ChassisID": "chassisdef_cataphract_CTF-1E",
   "Description": {
-    "Cost": 286250,
+    "Cost": 283761,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -43,27 +43,27 @@
     "UIName": "Cataphract CTF-1E",
     "Id": "mechdef_cataphract_CTF-1E",
     "Name": "Cataphract CTF-1E",
-    "Details": "We call the Cataphract the \"FrankenMech\" because it's got a little bit of everything stitched together on it. The 1E variant was upgraded to employ an EWS and a Null Signature System.\n\n<b><color=#e62e00>Quirk: Protected Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.1</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>\n\n",
+    "Details": "We call the Cataphract the \"FrankenMech\" because it's got a little bit of everything stitched together on it. The 1E variant was upgraded to employ an EWS and a Null Signature System.\n\n<b><color=#e62e00>Quirk: Protected Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.1</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>",
     "Icon": "uixTxrIcon_cataphract"
   },
-  "simGameMechPartCost": 286250,
+  "simGameMechPartCost": 283761,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 67,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 67,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -96,28 +96,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 67,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 67,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 67,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 67,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 67,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 67,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

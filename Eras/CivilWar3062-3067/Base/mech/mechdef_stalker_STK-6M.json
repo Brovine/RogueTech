@@ -36,7 +36,7 @@
   },
   "ChassisID": "chassisdef_stalker_STK-6M",
   "Description": {
-    "Cost": 436193,
+    "Cost": 432273,
     "Rarity": 4,
     "Purchasable": true,
     "Manufacturer": null,
@@ -44,27 +44,27 @@
     "UIName": "Stalker STK-6M",
     "Id": "mechdef_stalker_STK-6M",
     "Name": "Stalker STK-6M",
-    "Details": "Irian’s attempt to make up for the shortcomings of the 5M, the 6M introduced in 3062 drops the SRMs and Narc entirely, upgrades the LRMs to 15-tube racks with integral Artemis IV FCS and three tons of reloads each, and upgrades the lasers to ER versions, mounting a fifth medium. Most importantly, the LRM magazines are now protected with CASE.\n\n<b><color=#e62e00>Quirk: Combat Computer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.15</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Irian’s attempt to make up for the shortcomings of the 5M, the 6M introduced in 3062 drops the SRMs and Narc entirely, upgrades the LRMs to 15-tube racks with integral Artemis IV FCS and three tons of reloads each, and upgrades the lasers to ER versions, mounting a fifth medium. Most importantly, the LRM magazines are now protected with CASE.\n\n<b><color=#e62e00>Quirk: Combat Computer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.15</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_stalker"
   },
-  "simGameMechPartCost": 436193,
+  "simGameMechPartCost": 432273,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -97,28 +97,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 180,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 180,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 180,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 180,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

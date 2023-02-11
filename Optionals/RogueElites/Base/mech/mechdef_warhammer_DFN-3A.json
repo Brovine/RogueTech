@@ -42,7 +42,7 @@
     "UIName": "Warhammer DFN-3A",
     "Id": "mechdef_warhammer_DFN-3A",
     "Name": "Defiance DFN-3A",
-    "Details": "The prototype Defiance was intended to be the flagship design of venerable Defiance Industries, Described as a ''Warhammer on steroids'', it is visually similar to the original WHM-6R, carries a similar weapons array, and advanced TC\n\n<b><color=#e62e00>Quirk: Improved Sensors</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.19</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The prototype Defiance was intended to be the flagship design of venerable Defiance Industries, Described as a ''Warhammer on steroids'', it is visually similar to the original WHM-6R, carries a similar weapons array, and advanced TC\n\n<b><color=#e62e00>Quirk: Improved Sensors</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.19</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "Defiance"
   },
   "simGameMechPartCost": 460054,
@@ -50,19 +50,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 155,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 155,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 155,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 155,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

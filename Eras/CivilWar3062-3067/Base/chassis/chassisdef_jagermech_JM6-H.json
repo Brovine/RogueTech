@@ -23,7 +23,7 @@
     }
   ],
   "Description": {
-    "Cost": 1353829,
+    "Cost": 1341964,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": "",
@@ -31,7 +31,7 @@
     "UIName": "JagerMech",
     "Id": "chassisdef_jagermech_JM6-H",
     "Name": "JagerMech",
-    "Details": "The JagerMech H is a Marian Hegemony retrofit designed as a multipurpose command mech. Able to support at range while still crippling any over eager headhunting unit with a barrage of rockets.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The JagerMech H is a Marian Hegemony retrofit designed as a multipurpose command mech. Able to support at range while still crippling any over eager headhunting unit with a barrage of rockets.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_jagermech"
   },
   "VariantName": "JM6-H",
@@ -154,6 +154,10 @@
     {
       "Location": "RightTorso",
       "Hardpoints": [
+        {
+          "WeaponMountID": "Energy",
+          "Omni": false
+        },
         {
           "WeaponMountID": "Missile",
           "Omni": false

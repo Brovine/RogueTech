@@ -36,7 +36,7 @@
   },
   "ChassisID": "chassisdef_ostroc_OSR-4C",
   "Description": {
-    "Cost": 257294,
+    "Cost": 255000,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": null,
@@ -47,24 +47,24 @@
     "Details": "A Periphery variant of the Ostroc produced by Vandenburg Mechanized on New Vandenburg, the 4C is strikingly similar to the Capellan's 4L variant. It's armor has been upgraded with nine tons of Ferro-Fibrous armor, giving it more protection than previous models. Additionally, the SRM-4 launcher has been removed in favor of two Rocket Launcher 10s and two Rocket Launcher 15s, giving the 'Mech an incredible one-shot damage capability.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>",
     "Icon": "uixTxrIcon_ostroc"
   },
-  "simGameMechPartCost": 257294,
+  "simGameMechPartCost": 255000,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 65,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 65,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -97,28 +97,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 65,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 65,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

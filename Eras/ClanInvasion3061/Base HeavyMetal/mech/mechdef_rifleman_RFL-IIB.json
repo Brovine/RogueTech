@@ -45,7 +45,7 @@
     "UIName": "Rifleman RFL-IIB",
     "Id": "mechdef_rifleman_RFL-IIB",
     "Name": "Rifleman RFL-IIB",
-    "Details": "Designed by the same team as the RFL-IIA, this variant uses a pair of LBX/10 Autocannons, twin ER Large Lasers, two leg mounted LRM-5s and a TAG. It never went beyond early prototype stage, as many of the issues of the original Rifleman was inherited.\n\n<b><color=#e62e00>Quirk: Integrated Searchlight</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Designed by the same team as the RFL-IIA, this variant uses a pair of LBX/10 Autocannons, twin ER Large Lasers, two leg mounted LRM-5s and a TAG. It never went beyond early prototype stage, as many of the issues of the original Rifleman was inherited.\n\n<b><color=#e62e00>Quirk: Integrated Searchlight</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_riflemaniic"
   },
   "simGameMechPartCost": 417037,
@@ -53,19 +53,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -98,28 +98,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

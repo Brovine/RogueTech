@@ -37,7 +37,7 @@
   },
   "ChassisID": "chassisdef_jenner_iic_JR7-IIC-5",
   "Description": {
-    "Cost": 165934,
+    "Cost": 164444,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": null,
@@ -45,27 +45,27 @@
     "UIName": "Jenner IIC 5",
     "Id": "mechdef_jenner_iic_JR7-IIC-5",
     "Name": "Jenner IIC 5",
-    "Details": "The final Jenner IIC variant debuted just prior to the Nova Cat rebellion, but it now stands to make the largest profit. Mounting four improved heavy medium lasers in the arms, it represents a modern-day reincarnation of the original Jenner.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The final Jenner IIC variant debuted just prior to the Nova Cat rebellion, but it now stands to make the largest profit. Mounting four improved heavy medium lasers in the arms, it represents a modern-day reincarnation of the original Jenner.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_jenneriic"
   },
-  "simGameMechPartCost": 165934,
+  "simGameMechPartCost": 164444,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 35,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 35,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 15,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 15,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -98,28 +98,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 15,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 15,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

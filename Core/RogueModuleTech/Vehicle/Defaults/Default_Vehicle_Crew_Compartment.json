@@ -21,9 +21,9 @@
       "autorepair"
     ],
     "IBLS": {
-      "StorageSize": 2
+      "StorageSize": 5
     },
-    "VehicleCriticalEffects": {
+    "CriticalEffects": {
       "LinkedStatisticName": "VehicleCrewCompartmentCrits",
       "PenalizedEffectIDs": [
         [
@@ -60,7 +60,7 @@
   "ComponentSubType": "NotSet",
   "PrefabIdentifier": "",
   "BattleValue": 0,
-  "InventorySize": 2,
+  "InventorySize": 5,
   "Tonnage": 0,
   "AllowedLocations": "All",
   "DisallowedLocations": "All",
@@ -153,7 +153,8 @@
       "WikiWL",
       "component_type_stock",
       "BAIncompatible",
-      "ProtoIncompatible"
+      "ProtoIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

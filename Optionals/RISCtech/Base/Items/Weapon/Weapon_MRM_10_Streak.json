@@ -85,15 +85,15 @@
   "Tonnage": 4,
   "AllowedLocations": "All",
   "DisallowedLocations": "All",
-  "CriticalComponent": false,  
+  "CriticalComponent": false,
   "statusEffects": [],
   "ComponentTags": {
     "items": [
       "component_type_stock",
       "range_long",
       "BAIncompatible",
-      "ApolloMRMUnlockable",
-      "MRM.{location}"
+      "MRM.{location}",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

@@ -115,7 +115,7 @@
   },
   "ChassisID": "chassisdef_firestarter_FS9-S1",
   "Description": {
-    "Cost": 124266,
+    "Cost": 123182,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": null,
@@ -123,27 +123,27 @@
     "UIName": "Firestarter FS9-S1",
     "Id": "mechdef_firestarter_FS9-S1",
     "Name": "Firestarter FS9-S1",
-    "Details": "The FS9-S1 is an overhaul of the FS9-H introduced in 3049. The structure has been upgraded to use an Endo Steel chassis. The weapons carried are four flamers, two medium lasers, and a single small laser. An Anti-Missile System with one ton of ammo has been added to protect against missile attacks, and a Guardian ECM suite has been installed to increase survivability.\n\n<b><color=#e62e00>Quirk: Ubiquitous</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The FS9-S1 is an overhaul of the FS9-H introduced in 3049. The structure has been upgraded to use an Endo Steel chassis. The weapons carried are four flamers, two medium lasers, and a single small laser. An Anti-Missile System with one ton of ammo has been added to protect against missile attacks, and a Guardian ECM suite has been installed to increase survivability.\n\n<b><color=#e62e00>Quirk: Ubiquitous</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_firestarter"
   },
-  "simGameMechPartCost": 124266,
+  "simGameMechPartCost": 123182,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 35,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 35,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -176,28 +176,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 35,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 35,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

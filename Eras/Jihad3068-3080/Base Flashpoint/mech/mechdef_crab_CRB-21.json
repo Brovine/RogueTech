@@ -47,7 +47,7 @@
   },
   "ChassisID": "chassisdef_crab_CRB-21",
   "Description": {
-    "Cost": 167037,
+    "Cost": 165550,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -55,27 +55,27 @@
     "UIName": "Crab CRB-21",
     "Id": "mechdef_crab_CRB-21",
     "Name": "Crab CRB-21",
-    "Details": "Unlike its cousin, the CRB-21 fields Light Autocannon/5s and MML Launchers, while retaining most of its energy weaponry. Practically every aspect of the 'Mech has been upgraded from the stock version.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "Unlike its cousin, the CRB-21 fields Light Autocannon/5s and MML Launchers, while retaining most of its energy weaponry. Practically every aspect of the 'Mech has been upgraded from the stock version.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_crab"
   },
-  "simGameMechPartCost": 167037,
+  "simGameMechPartCost": 165550,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -108,28 +108,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

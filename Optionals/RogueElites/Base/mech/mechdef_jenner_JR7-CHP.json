@@ -49,7 +49,7 @@
   },
   "ChassisID": "chassisdef_jenner_JR7-CHP",
   "Description": {
-    "Cost": 125370,
+    "Cost": 126495,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": null,
@@ -57,27 +57,27 @@
     "UIName": "Chompie JR7-CHP",
     "Id": "mechdef_jenner_JR7-CHP",
     "Name": "Chompie JR7-CHP",
-    "Details": "Chompie goes Om Nom Nom Nom.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Chompie goes Om Nom Nom Nom.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_jenner"
   },
-  "simGameMechPartCost": 125370,
+  "simGameMechPartCost": 126495,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -110,28 +110,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

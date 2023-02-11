@@ -42,7 +42,7 @@
     "UIName": "UrbanMech UM-R61L",
     "Id": "mechdef_urbanmech_UM-R61L",
     "Name": "UrbanMech UM-R61L",
-    "Details": "Meant for close in-city fighting, the R61L is upgraded with Stealth Equipment alongside its less expensive R60L cousin's AC20.\n\n<b><color=#e62e00>Quirk: 360° Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Meant for close in-city fighting, the R61L is upgraded with Stealth Equipment alongside its less expensive R60L cousin's AC20.\n\n<b><color=#e62e00>Quirk: 360° Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_urbanmech"
   },
   "simGameMechPartCost": 76429,
@@ -50,19 +50,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 25,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 25,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -62,7 +62,7 @@
     "UIName": "Stone Rhino STR-1",
     "Id": "mechdef_stone_rhino_STR-1",
     "Name": "Stone Rhino STR-1",
-    "Details": "The design featured Large Pulse Lasers in each arm, twin Gauss Rifles mounted behind flip-open circular firing ports on each side torso, and an almost superfluous Small Pulse Laser located above the cockpit. The Stone Rhino also sported an interesting feature; each arm contained a retractable, shock-absorbing cowl covering the weapon barrels. This allowed MechWarriors to use the arms as battering rams without damaging the weaponry.\n\n<b><color=#e62e00>Quirk: Distracting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.22</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The design featured Large Pulse Lasers in each arm, twin Gauss Rifles mounted behind flip-open circular firing ports on each side torso, and an almost superfluous Small Pulse Laser located above the cockpit. The Stone Rhino also sported an interesting feature; each arm contained a retractable, shock-absorbing cowl covering the weapon barrels. This allowed MechWarriors to use the arms as battering rams without damaging the weaponry.\n\n<b><color=#e62e00>Quirk: Distracting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.22</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "stonerhino"
   },
   "simGameMechPartCost": 668650,
@@ -70,19 +70,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 160,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 160,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -115,28 +115,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 160,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 160,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 180,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 180,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 180,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 180,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

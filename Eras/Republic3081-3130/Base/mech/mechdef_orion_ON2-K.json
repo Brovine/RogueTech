@@ -41,7 +41,7 @@
     "UIName": "Orion ON2-K",
     "Id": "mechdef_orion_ON2-K",
     "Name": "Orion ON2-K",
-    "Details": "The Orion 2K is a prototype upgrade of an already impressive design, adding 2 PPCs with upgraded capacitors, and an AC/5 with specialized ammo as well as heat-dissipating armour.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The Orion 2K is a prototype upgrade of an already impressive design, adding 2 PPCs with upgraded capacitors, and an AC/5 with specialized ammo as well as heat-dissipating armour.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_orion"
   },
   "simGameMechPartCost": 397523,
@@ -49,19 +49,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -94,28 +94,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

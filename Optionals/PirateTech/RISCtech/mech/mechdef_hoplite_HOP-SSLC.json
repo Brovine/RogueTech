@@ -44,7 +44,7 @@
   },
   "ChassisID": "chassisdef_hoplite_HOP-SSLC",
   "Description": {
-    "Cost": 245566,
+    "Cost": 243318,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -52,27 +52,27 @@
     "UIName": "Hoplite HOP-SSLC",
     "Id": "mechdef_hoplite_HOP-SSLC",
     "Name": "Hoplite HOP-SSLC",
-    "Details": "This Pirate version of the Hoplite includes multiple methods of interfering with another 'Mech's entire kit. It comes with a Taser, a Harpoon, and a pair of Fluid Guns that can spray a selection of chemicals on enemy units. It's equipped with a Mechanical Jump Jet system to get it in and out of range of its targets.\n\n<b><color=#e62e00>Quirk: Distracting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.03</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "This Pirate version of the Hoplite includes multiple methods of interfering with another 'Mech's entire kit. It comes with a Taser, a Harpoon, and a pair of Fluid Guns that can spray a selection of chemicals on enemy units. It's equipped with a Mechanical Jump Jet system to get it in and out of range of its targets.\n\n<b><color=#e62e00>Quirk: Distracting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.03</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "Hoplite"
   },
-  "simGameMechPartCost": 245566,
+  "simGameMechPartCost": 243318,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 45,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -105,28 +105,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 45,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

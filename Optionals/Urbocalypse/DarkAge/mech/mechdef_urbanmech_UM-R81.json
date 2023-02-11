@@ -84,7 +84,7 @@
     "UIName": "UrbanMech UM-R81",
     "Id": "mechdef_urbanmech_UM-R81",
     "Name": "UrbanMech UM-R81",
-    "Details": "This variant carries an ER PPC, TAG, Beagle Active Probe, and Guardian ECM Suite. It retains the Small Laser of the standard UrbanMech as well. Improved Jump Jets help the UrbanMech move around the city it defends more effectively.\n\n<b><color=#e62e00>Quirk: 360° Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "This variant carries an ER PPC, TAG, Beagle Active Probe, and Guardian ECM Suite. It retains the Small Laser of the standard UrbanMech as well. Improved Jump Jets help the UrbanMech move around the city it defends more effectively.\n\n<b><color=#e62e00>Quirk: 360° Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_urbanmech"
   },
   "simGameMechPartCost": 77115,
@@ -92,19 +92,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 25,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -137,28 +137,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 25,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

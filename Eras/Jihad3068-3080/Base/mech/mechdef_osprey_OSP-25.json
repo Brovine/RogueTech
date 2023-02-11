@@ -45,7 +45,7 @@
     "UIName": "Osprey OSP-25",
     "Id": "mechdef_osprey_OSP-25",
     "Name": "Osprey OSP-25",
-    "Details": "Introduced in 3074 by the Word of Blake, the Osprey Osp-25 is a minor upgrade of the original Osp-15 which swaps the Medium Lasers for Extended Range versions.\n\n<b><color=#e62e00>Quirk: Stable Weapons</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Introduced in 3074 by the Word of Blake, the Osprey Osp-25 is a minor upgrade of the original Osp-15 which swaps the Medium Lasers for Extended Range versions.\n\n<b><color=#e62e00>Quirk: Stable Weapons</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "Osprey"
   },
   "simGameMechPartCost": 245566,
@@ -53,19 +53,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 45,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -98,28 +98,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 45,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

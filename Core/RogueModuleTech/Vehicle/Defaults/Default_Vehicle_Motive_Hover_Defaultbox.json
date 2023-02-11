@@ -25,7 +25,7 @@
     "IBLS": {
       "StorageSize": 2
     },
-    "VehicleCriticalEffects": {
+    "CriticalEffects": {
       "LinkedStatisticName": "VehicleMotiveHoverCrits",
       "OnDestroyedEffectIDs": [
         "CriticalEffect-VehicleMotiveCruiseHoverCrit1",
@@ -39,7 +39,7 @@
     "Rarity": 99,
     "Purchasable": true,
     "Manufacturer": "Generic",
-    "Model": "Hover Propulsion Gearbox",
+    "Model": "Generic",
     "UIName": "Hover Propulsion System",
     "Id": "Default_Vehicle_Motive_Hover_Defaultbox",
     "Name": "Hover Propulsion System",
@@ -171,7 +171,8 @@
       "WikiWL",
       "component_type_stock",
       "BAIncompatible",
-      "ProtoIncompatible"
+      "ProtoIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

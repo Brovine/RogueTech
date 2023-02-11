@@ -60,7 +60,7 @@
     "UIName": "Ebon Jaguar 'Cauldron Born P'",
     "Id": "mechdef_cauldron_born_EBJ-P",
     "Name": "Ebon Jaguar P",
-    "Details": "Named after the Unstoppable Zombies of Irish Folklore, this Ebon Jaguar refit was designed to be a truly menacing threat. When it finally saw action, its experimental armor was described by a Private Lu Ban of the DCMS as 'Living Ferro-Fibrous'. He further remarked '...them egg-heads call it Hardened Ferro. We out here gettin' shot at though, we called it living. That weird gel shit crawls around and realigns the metallic fibres, you can hear it crinklin' as it works.'\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.2</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Named after the Unstoppable Zombies of Irish Folklore, this Ebon Jaguar refit was designed to be a truly menacing threat. When it finally saw action, its experimental armor was described by a Private Lu Ban of the DCMS as 'Living Ferro-Fibrous'. He further remarked '...them egg-heads call it Hardened Ferro. We out here gettin' shot at though, we called it living. That weird gel shit crawls around and realigns the metallic fibres, you can hear it crinklin' as it works.'\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.2</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "EbonJagReign"
   },
   "simGameMechPartCost": 368795,
@@ -68,19 +68,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -113,28 +113,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

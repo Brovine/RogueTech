@@ -74,7 +74,7 @@
     "UIName": "Vindicator VND-RSC",
     "Id": "mechdef_vindicator_VND-RSC",
     "Name": "Vindicator VND-RSC",
-    "Details": "A RISC engineered Refit of the Old Vindicator designed to carry 2 Light PPC's with Twin-Linked Capacitors alongside a Experimental MML10 this design offers superior scouting capabilities.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>\n\n",
+    "Details": "A RISC engineered Refit of the Old Vindicator designed to carry 2 Light PPC's with Twin-Linked Capacitors alongside a Experimental MML10 this design offers superior scouting capabilities.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>",
     "Icon": "uixTxrIcon_vindicator"
   },
   "simGameMechPartCost": 208802,
@@ -82,19 +82,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -127,28 +127,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -6,10 +6,10 @@
   ],
   "modes": [
     {
-      "Id": "!NONE!",
+      "Id": "BASE",
       "UIName": "Insulated",
       "HeatGenerated": 0,
-      "HeatGeneratedModifier": 1
+      "HeatGeneratedModifier": 0
     }
   ]
 }

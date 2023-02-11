@@ -38,7 +38,7 @@
     "UIName": "Bushwacker BSW-L1",
     "Id": "mechdef_bushwacker_BSW-L1",
     "Name": "Bushwacker BSW-L1",
-    "Details": "The Bushwacker was originally a failed BattleMech designed to have a smaller forward profile to make the 'Mech a harder target to hit. The Bushwacker's unique design caused problems with the engine shielding, the side-effects of which manifested themselves as various gremlins in the 'Mech's on board electronics on the prototypes fielded.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The Bushwacker was originally a failed BattleMech designed to have a smaller forward profile to make the 'Mech a harder target to hit. The Bushwacker's unique design caused problems with the engine shielding, the side-effects of which manifested themselves as various gremlins in the 'Mech's on board electronics on the prototypes fielded.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "bushwacker"
   },
   "simGameMechPartCost": 245566,
@@ -46,19 +46,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 45,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -91,28 +91,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 45,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

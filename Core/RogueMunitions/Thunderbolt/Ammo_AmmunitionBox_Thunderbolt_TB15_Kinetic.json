@@ -8,21 +8,23 @@
     "BonusDescriptions": [
       "NoIndirect",
       "TACchance: +100%",
-      "AllBracketRange: +25%",
+      "MunitionsRange: +0,+90,+120,+150,+240",
       "MinRangeDamage: 30%",
       "ArmorDmgMod: +50%",
       "VariableDmg: 20",
       "Protected: 50%",
       "MissileHP: 45",
       "AmmoCount: TMB15, 4",
-      "AmmoCost: 675"
+      "AmmoCost: 675",
+      "AmmoBoxExplosionDHS: 22.5, 11.3, 5.6"
     ],
     "AmmoCost": {
       "PerUnitCost": 675
     },
     "ComponentExplosion": {
-      "ExplosionDamagePerAmmo": 37,
-      "StabilityDamagePerAmmo": 18
+      "ExplosionDamagePerAmmo": 22.5,
+      "HeatDamagePerAmmo": 11.25,
+      "StabilityDamagePerAmmo": 5.625
     },
     "Flags": [
       "not_broken"

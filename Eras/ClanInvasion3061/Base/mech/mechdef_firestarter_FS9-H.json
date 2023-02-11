@@ -116,7 +116,7 @@
   },
   "ChassisID": "chassisdef_firestarter_FS9-H",
   "Description": {
-    "Cost": 124266,
+    "Cost": 123182,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": null,
@@ -124,27 +124,27 @@
     "UIName": "Firestarter FS9-H",
     "Id": "mechdef_firestarter_FS9-H",
     "Name": "Firestarter FS9-H",
-    "Details": "The Firestarter is a dangerous 'Mech for its tonnage, carefully timed attacks with its Flamers can shut down any 'Mech and leave it open to punishment from your other forces. The FS9-H also makes a decent light 'Mech hunter-killer.\n\n<b><color=#e62e00>Quirk: Ubiquitous</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The Firestarter is a dangerous 'Mech for its tonnage, carefully timed attacks with its Flamers can shut down any 'Mech and leave it open to punishment from your other forces. The FS9-H also makes a decent light 'Mech hunter-killer.\n\n<b><color=#e62e00>Quirk: Ubiquitous</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_firestarter"
   },
-  "simGameMechPartCost": 124266,
+  "simGameMechPartCost": 123182,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -177,28 +177,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

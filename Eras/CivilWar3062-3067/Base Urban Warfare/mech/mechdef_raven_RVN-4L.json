@@ -38,7 +38,7 @@
   },
   "ChassisID": "chassisdef_raven_RVN-4L",
   "Description": {
-    "Cost": 127642,
+    "Cost": 126495,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -46,27 +46,27 @@
     "UIName": "Raven RVN-4L",
     "Id": "mechdef_raven_RVN-4L",
     "Name": "Raven RVN-4L",
-    "Details": "This variant of the Raven incorporates the Confederation's new Stealth Armor. The 'Mech carries six tons of Stealth Armor and also uses ten double heat sinks for greater heat dissipation capabilities.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "This variant of the Raven incorporates the Confederation's new Stealth Armor. The 'Mech carries six tons of Stealth Armor and also uses ten double heat sinks for greater heat dissipation capabilities.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "Raven2"
   },
-  "simGameMechPartCost": 127642,
+  "simGameMechPartCost": 126495,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -99,28 +99,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

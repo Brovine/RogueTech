@@ -42,7 +42,7 @@
     "UIName": "Wolfhound WLF-2X",
     "Id": "mechdef_wolfhound_WLF-2X",
     "Name": "Wolfhound WLF-2X",
-    "Details": "Developed by Arc-Royal MechWorks, the extensively modified WLF-2X variant utilizes experimental technology. Using an Endo Steel chassis and an extra-light engine to save weight, the 2X's main weapon is a right-arm mounted Heavy PPC enhanced by both a PPC Capacitor and an Actuator Enhancement System.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - Energy</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.07</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>\n\n",
+    "Details": "Developed by Arc-Royal MechWorks, the extensively modified WLF-2X variant utilizes experimental technology. Using an Endo Steel chassis and an extra-light engine to save weight, the 2X's main weapon is a right-arm mounted Heavy PPC enhanced by both a PPC Capacitor and an Actuator Enhancement System.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - Energy</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.07</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>",
     "Icon": "wolfhound2"
   },
   "simGameMechPartCost": 155333,
@@ -50,19 +50,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 60,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 60,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 60,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 60,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

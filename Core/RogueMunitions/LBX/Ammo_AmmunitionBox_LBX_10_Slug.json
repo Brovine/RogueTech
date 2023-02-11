@@ -8,15 +8,17 @@
     "BonusDescriptions": [
       "AmmoCount: LBX/10, 10",
       "StabDamage: +25%",
-      "AllBracketRange: +120m",
-      "AmmoCost: 300"
+      "MunitionsRange: +0,+30,+60,+90,+120",
+      "AmmoCost: 300",
+      "AmmoBoxExplosionDHS: 30, 15, 7.5"
     ],
     "AmmoCost": {
       "PerUnitCost": 300
     },
     "ComponentExplosion": {
-      "ExplosionDamagePerAmmo": 60,
-      "StabilityDamagePerAmmo": 15
+      "ExplosionDamagePerAmmo": 30.0,
+      "HeatDamagePerAmmo": 15.0,
+      "StabilityDamagePerAmmo": 7.5
     },
     "Flags": [
       "not_broken"

@@ -32,7 +32,7 @@
   },
   "ChassisID": "chassisdef_koschei_KSC-5I",
   "Description": {
-    "Cost": 278148,
+    "Cost": 275642,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": null,
@@ -43,24 +43,24 @@
     "Details": "Bearing the distinction of being the second Mech to be created by the Capellan Confederation, the Koschei began production in 2504 though production would cease during the Succession Wars; with production restarting during the Jihad. A 65 ton Mech, the Koschei 5I is powered by a 325 rated XL Engine giving it a top speed of 86km/h. A Heavy PPC is the Mechs main gun with 5 ER Small Lasers and a Snub Nose PPC as backup weapons. Guardian ECM improves the Mechs survivability.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>",
     "Icon": "uixTxrIcon_koschei"
   },
-  "simGameMechPartCost": 278148,
+  "simGameMechPartCost": 275642,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -93,28 +93,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

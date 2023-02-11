@@ -25,7 +25,7 @@
     }
   ],
   "Description": {
-    "Cost": 2479955,
+    "Cost": 2458036,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": "",
@@ -33,7 +33,7 @@
     "UIName": "Marauder II",
     "Id": "chassisdef_marauder_ii_MAD-AL",
     "Name": "Marauder II",
-    "Details": "Appearing in 3012, the Marauder II is a redesign of the classic Marauder, turning the 75 ton Heavy Mech into a 100 ton Assault. Originally a Wolfs Dragoons exclusive Mech, it wasn’t until after the 4th War of Succession in 3030 that the Mech would spread beyond the Dragoons. Powered by a 300 rated XL Engine, the Marauder II MAD-AL is armed with paired UAC/10’s, paired Streak SRM-6’s and Medium Pulse Lasers. A Beagle Active Probe rounds out the variant. \n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.23</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "Appearing in 3012, the Marauder II is a redesign of the classic Marauder, turning the 75 ton Heavy Mech into a 100 ton Assault. Originally a Wolfs Dragoons exclusive Mech, it wasn’t until after the 4th War of Succession in 3030 that the Mech would spread beyond the Dragoons. Powered by a 300 rated XL Engine, the Marauder II MAD-AL is armed with paired UAC/10’s, paired Streak SRM-6’s and Medium Pulse Lasers. A Beagle Active Probe rounds out the variant. \n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.23</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_marauderii"
   },
   "VariantName": "MAD-AL",
@@ -88,12 +88,7 @@
   "Locations": [
     {
       "Location": "Head",
-      "Hardpoints": [
-        {
-          "WeaponMountID": "AntiPersonnel",
-          "Omni": false
-        }
-      ],
+      "Hardpoints": [],
       "Tonnage": 0,
       "InventorySlots": 6,
       "MaxArmor": 45,
@@ -103,6 +98,10 @@
     {
       "Location": "LeftArm",
       "Hardpoints": [
+        {
+          "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
         {
           "WeaponMountID": "Ballistic",
           "Omni": false
@@ -122,7 +121,11 @@
       "Location": "LeftTorso",
       "Hardpoints": [
         {
-          "WeaponMountID": "Energy",
+          "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
+        {
+          "WeaponMountID": "Ballistic",
           "Omni": false
         },
         {
@@ -146,7 +149,12 @@
     },
     {
       "Location": "CenterTorso",
-      "Hardpoints": [],
+      "Hardpoints": [
+        {
+          "WeaponMountID": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
       "Tonnage": 0,
       "InventorySlots": 13,
       "MaxArmor": 310,
@@ -157,7 +165,7 @@
       "Location": "RightTorso",
       "Hardpoints": [
         {
-          "WeaponMountID": "Energy",
+          "WeaponMountID": "Ballistic",
           "Omni": false
         },
         {
@@ -188,10 +196,6 @@
         },
         {
           "WeaponMountID": "Ballistic",
-          "Omni": false
-        },
-        {
-          "WeaponMountID": "AntiPersonnel",
           "Omni": false
         },
         {

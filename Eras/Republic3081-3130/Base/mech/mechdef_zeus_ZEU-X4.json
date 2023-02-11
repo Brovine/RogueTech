@@ -40,7 +40,7 @@
     "UIName": "Zeus ZEU-X4",
     "Id": "mechdef_zeus_ZEU-X4",
     "Name": "Zeus ZEU-X4",
-    "Details": "Manufactured on Kwangjong-ni by Defiance, the Zeus X was both a poster child for excellence in production engineering and an innovative high-technology platform. The -X4 featured a trio of long-range weapons in a Light Gauss Rifle in the left arm, ER Large Laser in the left torso, and an LRM20 in the right arm making this model an excellent long-range combatant.\n\n<b><color=#e62e00>Quirk: Command Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.2</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "Manufactured on Kwangjong-ni by Defiance, the Zeus X was both a poster child for excellence in production engineering and an innovative high-technology platform. The -X4 featured a trio of long-range weapons in a Light Gauss Rifle in the left arm, ER Large Laser in the left torso, and an LRM20 in the right arm making this model an excellent long-range combatant.\n\n<b><color=#e62e00>Quirk: Command Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.2</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "ZeusXI"
   },
   "simGameMechPartCost": 466786,
@@ -48,19 +48,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -93,28 +93,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

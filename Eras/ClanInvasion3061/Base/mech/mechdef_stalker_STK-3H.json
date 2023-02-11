@@ -116,7 +116,7 @@
   },
   "ChassisID": "chassisdef_stalker_STK-3H",
   "Description": {
-    "Cost": 436193,
+    "Cost": 432273,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": null,
@@ -124,27 +124,27 @@
     "UIName": "Stalker STK-3H",
     "Id": "mechdef_stalker_STK-3H",
     "Name": "Stalker STK-3H",
-    "Details": "The Stalker 3H was intended as a seige 'Mech.  Replacing the twin LRM-10s and Large Lasers for paired LRM-20s, the STK-3H is a powerful fire support 'Mech.\n\n<b><color=#e62e00>Quirk: Combat Computer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.13</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The Stalker 3H was intended as a seige 'Mech.  Replacing the twin LRM-10s and Large Lasers for paired LRM-20s, the STK-3H is a powerful fire support 'Mech.\n\n<b><color=#e62e00>Quirk: Combat Computer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.13</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_stalker"
   },
-  "simGameMechPartCost": 436193,
+  "simGameMechPartCost": 432273,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 115,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 115,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -177,28 +177,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 115,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 115,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 125,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 125,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 125,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 125,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

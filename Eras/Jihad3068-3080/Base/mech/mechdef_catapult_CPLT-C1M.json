@@ -41,7 +41,7 @@
     "UIName": "Catapult CPLT-C1M",
     "Id": "mechdef_catapult_CPLT-C1M",
     "Name": "Catapult CPLT-C1M",
-    "Details": "The Catapult C1M is a common Mercenary refit to the old C1 designed a selection of MML Launchers to help with supply shortages.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - Missiles</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The Catapult C1M is a common Mercenary refit to the old C1 designed a selection of MML Launchers to help with supply shortages.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - Missiles</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_catapult"
   },
   "simGameMechPartCost": 280701,
@@ -49,19 +49,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -94,28 +94,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

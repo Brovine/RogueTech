@@ -99,7 +99,7 @@
   },
   "ChassisID": "chassisdef_hunchback_HBK-4P",
   "Description": {
-    "Cost": 164091,
+    "Cost": 162658,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": null,
@@ -110,24 +110,24 @@
     "Details": "The 4P version of the Hunchback trades the singular impact of a massive Autocannon for a frightening array of lighter Energy weaponry that is actually capable of dealing more damage overall. This all comes at the cost of greatly increased heat buildup, of course.\n\n<b><color=#e62e00>Quirk: Battle Fists</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>",
     "Icon": "uixTxrIcon_hunchback"
   },
-  "simGameMechPartCost": 164091,
+  "simGameMechPartCost": 162658,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -160,28 +160,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

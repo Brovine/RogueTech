@@ -46,7 +46,7 @@
   },
   "ChassisID": "chassisdef_archer_ARC-5WDR",
   "Description": {
-    "Cost": 375419,
+    "Cost": 372125,
     "Rarity": 4,
     "Purchasable": true,
     "Manufacturer": null,
@@ -57,24 +57,24 @@
     "Details": "The -5WDR is a mercenary full clan tech refit of the -5R initially introduced by the Wolf's Dragoons. Using an XL clan engine allows the mounting of four Artemis IV-enabled LRM-15 launchers and four ER Medium Lasers, combined with two Small Pulser Lasers for close range, leading to high damage capabilities.\n\n<b><color=#e62e00>Quirk: Battle Fists</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.2</color></b>",
     "Icon": "archerorig"
   },
-  "simGameMechPartCost": 375419,
+  "simGameMechPartCost": 372125,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -107,28 +107,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -32,7 +32,7 @@
   },
   "ChassisID": "chassisdef_hellfire_HLF-COL",
   "Description": {
-    "Cost": 325696,
+    "Cost": 322872,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": null,
@@ -43,24 +43,24 @@
     "Details": "Classified Variant.\n\n<b><color=#e62e00>Quirk: Easy to Pilot</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
     "Icon": "uixTxrIcon_hellfire"
   },
-  "simGameMechPartCost": 325696,
+  "simGameMechPartCost": 322872,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -93,28 +93,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

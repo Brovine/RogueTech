@@ -61,7 +61,7 @@
     "UIName": "Mitsurugi-Ryu NDA-RYU",
     "Id": "mechdef_mitsurugi-ryu_NDA-RYU",
     "Name": "No-Dachi NDA-RYU",
-    "Details": "Named for some supposedly ancient Warrior of Terran mythology does this experimental No-Dachi carry a reforged Large Vibroblade and is equipped with advanced Myomer.\n\n<b><color=#e62e00>Quirk: Way of the Samurai</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Lower</color>\n\n",
+    "Details": "Named for some supposedly ancient Warrior of Terran mythology does this experimental No-Dachi carry a reforged Large Vibroblade and is equipped with advanced Myomer.\n\n<b><color=#e62e00>Quirk: Way of the Samurai</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
     "Icon": "NoDachi"
   },
   "simGameMechPartCost": 335068,
@@ -69,19 +69,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -114,28 +114,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

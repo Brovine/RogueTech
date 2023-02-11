@@ -85,7 +85,7 @@
   },
   "ChassisID": "chassisdef_longbow_LGB-7V",
   "Description": {
-    "Cost": 436193,
+    "Cost": 432273,
     "Rarity": 4,
     "Purchasable": true,
     "Manufacturer": null,
@@ -93,27 +93,27 @@
     "UIName": "Longbow LGB-7V",
     "Id": "mechdef_longbow_LGB-7V",
     "Name": "Longbow LGB-7V",
-    "Details": "The 7V variant of the Longbow upgrades the design to more modern specifications. The 'Mech is powered by an XL engine that weighs half as much as the original engine. The 'Mech also removes the two LRM-5 launchers and adds Artemis IV to the LRM-20 launchers, and CASE for added protection. For close combat, the 7V has 5 Medium Pulse Lasers. To add a little more long range firepower, the 7V has also has an ER Large Laser.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.15</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The 7V variant of the Longbow upgrades the design to more modern specifications. The 'Mech is powered by an XL engine that weighs half as much as the original engine. The 'Mech also removes the two LRM-5 launchers and adds Artemis IV to the LRM-20 launchers, and CASE for added protection. For close combat, the 7V has 5 Medium Pulse Lasers. To add a little more long range firepower, the 7V has also has an ER Large Laser.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.15</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_longbow"
   },
-  "simGameMechPartCost": 436193,
+  "simGameMechPartCost": 432273,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -146,28 +146,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 165,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 165,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 165,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 165,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

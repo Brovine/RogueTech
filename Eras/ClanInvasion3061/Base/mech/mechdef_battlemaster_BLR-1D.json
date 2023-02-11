@@ -31,7 +31,7 @@
   },
   "ChassisID": "chassisdef_battlemaster_BLR-1D",
   "Description": {
-    "Cost": 440185,
+    "Cost": 436193,
     "Rarity": 4,
     "Purchasable": true,
     "Manufacturer": null,
@@ -42,24 +42,24 @@
     "Details": "More of a refit than a production variant, the SRM-6 and two Medium Lasers are removed so that six Heat Sinks and an extra ton of armor could be added.  Making the BLR-1D a formidable opponent.\n\n<b><color=#e62e00>Quirk: Command Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.13</color></b>",
     "Icon": "uixTxrIcon_battlemaster"
   },
-  "simGameMechPartCost": 440185,
+  "simGameMechPartCost": 436193,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 135,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 135,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -92,28 +92,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 135,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 135,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 155,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 155,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 155,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 155,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

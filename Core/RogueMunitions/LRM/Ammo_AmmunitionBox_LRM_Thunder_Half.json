@@ -16,14 +16,16 @@
       "Thunder",
       "NoAA",
       "AmmoCount: LRM, 60",
-      "AmmoCost: 50"
+      "AmmoCost: 50",
+      "AmmoBoxExplosionDHS: 2.5, 1.3, 0.6"
     ],
     "AmmoCost": {
       "PerUnitCost": 50
     },
     "ComponentExplosion": {
-      "ExplosionDamagePerAmmo": 4,
-      "StabilityDamagePerAmmo": 1
+      "ExplosionDamagePerAmmo": 2.5,
+      "HeatDamagePerAmmo": 1.25,
+      "StabilityDamagePerAmmo": 0.625
     },
     "Flags": [
       "not_broken"
@@ -47,7 +49,7 @@
     "UIName": "Ammo LRM Thunder [Half]",
     "Id": "Ammo_AmmunitionBox_LRM_Thunder_Half",
     "Name": "LRM Ammo",
-    "Details": "Each Thunder LRM missile contains five small but powerful anti-vehicle and anti-personnel mines which scatter out when fired, packing enough explosive force to damage the legs of many BattleMechs. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+    "Details": "Each Thunder LRM missile contains five small but powerful anti-vehicle mines which scatter out when fired, packing enough explosive force to damage the legs of many BattleMechs. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
     "Icon": "lrm"
   },
   "BonusValueA": "",

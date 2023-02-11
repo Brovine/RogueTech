@@ -7,7 +7,7 @@
     ],
     "BonusDescriptions": [
       "FCS",
-      "Turret: +1"
+      "AccuracyLocation: +1"
     ],
     "Flags": [
       "default",
@@ -78,7 +78,8 @@
       "WikiWL",
       "component_type_stock",
       "BAIncompatible",
-      "ProtoIncompatible"
+      "ProtoIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

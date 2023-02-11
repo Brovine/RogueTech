@@ -55,7 +55,7 @@
     "UIName": "Orion ON1-MC",
     "Id": "mechdef_orion_ON1-MC",
     "Name": "Orion ON1-MC",
-    "Details": "A minor variant of the ON1-M introduced in 3058. The designers removed both missile racks and Narc launcher to make room for two Medium Range Missile launchers. In place of the LRM-20 is an MRM-20, while a larger MRM-30 is crammed in the torso where the SRM-4 formerly sat. Enough room is left to add a head-mounted C3 Slave Unit. This variant was much-used by the Draconis Combine.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "A minor variant of the ON1-M introduced in 3058. The designers removed both missile racks and Narc launcher to make room for two Medium Range Missile launchers. In place of the LRM-20 is an MRM-20, while a larger MRM-30 is crammed in the torso where the SRM-4 formerly sat. Enough room is left to add a head-mounted C3 Slave Unit. This variant was much-used by the Draconis Combine.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_orion"
   },
   "simGameMechPartCost": 397523,
@@ -63,19 +63,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -108,28 +108,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 160,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 160,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 160,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 160,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

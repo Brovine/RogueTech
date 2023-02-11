@@ -44,7 +44,7 @@
     "UIName": "Jinggau JN-G8BX 'Rush'",
     "Id": "mechdef_jinggau_JN-G8BX_Rush",
     "Name": "Jinggau JN-G8BX",
-    "Details": "This was test-bed 'Mech which was fitted out with experimental weaponry and equipment by Warrior House Imarra. The Jinggau's main weaponry was replaced with an experimental Sniper Cannon and four Medium X-Pulse Lasers. The 'Mech was equipped with an XL Gyro, TAG, and a C3 Slave.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "This was test-bed 'Mech which was fitted out with experimental weaponry and equipment by Warrior House Imarra. The Jinggau's main weaponry was replaced with an experimental Sniper Cannon and four Medium X-Pulse Lasers. The 'Mech was equipped with an XL Gyro, TAG, and a C3 Slave.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_ebonjaguar"
   },
   "simGameMechPartCost": 300500,
@@ -52,19 +52,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 95,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 95,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -97,28 +97,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 95,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 95,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 115,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 115,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 115,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 115,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

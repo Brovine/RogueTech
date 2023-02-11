@@ -36,7 +36,7 @@
   },
   "ChassisID": "chassisdef_star_python_SPY-1",
   "Description": {
-    "Cost": 85472,
+    "Cost": 84741,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -44,27 +44,27 @@
     "UIName": "Star Python SPY-1",
     "Id": "mechdef_star_python_SPY-1",
     "Name": "Star Python SPY-1",
-    "Details": "The Star Python poses little threat to an enemy of greater size or moderately respectable armor. The Scorpion Empire employs the ’Mech in groups, enhancing the threat through numbers rather than via armament. Though their current numbers remain low, an unverified report indicates Star Pythons are being deployed in Trinary-sized hunting packs. The combined might of many light ’Mechs delivers through synergy what each lacks individually. It doubles as a fast scout, combining excellent speed with limited jump capability.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The Star Python poses little threat to an enemy of greater size or moderately respectable armor. The Scorpion Empire employs the ’Mech in groups, enhancing the threat through numbers rather than via armament. Though their current numbers remain low, an unverified report indicates Star Pythons are being deployed in Trinary-sized hunting packs. The combined might of many light ’Mechs delivers through synergy what each lacks individually. It doubles as a fast scout, combining excellent speed with limited jump capability.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_enforcer"
   },
-  "simGameMechPartCost": 85472,
+  "simGameMechPartCost": 84741,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -97,28 +97,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

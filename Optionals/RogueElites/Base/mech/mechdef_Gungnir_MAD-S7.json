@@ -36,7 +36,7 @@
   },
   "ChassisID": "chassisdef_Gungnir_MAD-S7",
   "Description": {
-    "Cost": 460054,
+    "Cost": 456000,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -44,27 +44,27 @@
     "UIName": "Gungnir MAD-S7",
     "Id": "mechdef_Gungnir_MAD-S7",
     "Name": "Marauder MAD-S7",
-    "Details": "MAD-ness! This Marauder Variant was exclusively designed for the Deadly Sins stable on Solaris VII and has specialized support systems for Gauss & PPC Weapons. Hitting like an angry God.\n\n<b><color=#e62e00>Quirk: Advanced Optics</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.19</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "MAD-ness! This Marauder Variant was exclusively designed for the Deadly Sins stable on Solaris VII and has specialized support systems for Gauss & PPC Weapons. Hitting like an angry God.\n\n<b><color=#e62e00>Quirk: Advanced Optics</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.19</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "MarauderII"
   },
-  "simGameMechPartCost": 460054,
+  "simGameMechPartCost": 456000,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -97,28 +97,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -50,7 +50,7 @@
     "UIName": "Thor SMN-P",
     "Id": "mechdef_thor_SMN-P",
     "Name": "Summoner P",
-    "Details": "The 'Thor' was built to bring Thunder and Lightning by a disgruntled Rasalhague Militia man who managed to refurbish a broken Summoner, carrying the devastating Mjoelner Ultra AutoCannon\n\n<b><color=#e62e00>Quirk: Tacticon TC7000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The 'Thor' was built to bring Thunder and Lightning by a disgruntled Rasalhague Militia man who managed to refurbish a broken Summoner, carrying the devastating Mjoelner Ultra AutoCannon\n\n<b><color=#e62e00>Quirk: Tacticon TC7000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_summoner"
   },
   "simGameMechPartCost": 335068,
@@ -58,19 +58,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -103,28 +103,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

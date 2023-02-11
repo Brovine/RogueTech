@@ -44,7 +44,7 @@
     "UIName": "Raptor II RPT-5X",
     "Id": "mechdef_raptor_ii_RPT-5X",
     "Name": "Raptor II RPT-5X",
-    "Details": "The first BattleMech to utilize the advanced Void Signature System, while reports of 'invisible 'Mechs' had long been ignored as confusion for such Star League era stealth systems as the Null Signature System and Chameleon Light Polarization Shield, allowed the 'Stealth Raptor' to be used with deadly effect.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.08</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The first BattleMech to utilize the advanced Void Signature System, while reports of 'invisible 'Mechs' had long been ignored as confusion for such Star League era stealth systems as the Null Signature System and Chameleon Light Polarization Shield, allowed the 'Stealth Raptor' to be used with deadly effect.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.08</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "RaptorII"
   },
   "simGameMechPartCost": 160148,
@@ -52,19 +52,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 39,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 39,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 55,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 55,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -97,28 +97,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 55,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 55,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

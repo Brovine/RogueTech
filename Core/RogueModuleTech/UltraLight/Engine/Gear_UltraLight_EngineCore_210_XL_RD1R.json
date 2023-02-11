@@ -32,12 +32,12 @@
     "IBLS": {
       "StorageSize": 1
     },
-    "Weights": {
-      "StructureFactor": 0.5
-    },
     "StructureRepair": {
       "StructureTPCost": 1.5,
       "StructureCBCost": 1.8
+    },
+    "Weights": {
+      "StructureFactor": 0.5
     }
   },
   "DissipationCapacity": 0,
@@ -64,7 +64,32 @@
   "AllowedLocations": "All",
   "DisallowedLocations": "All",
   "CriticalComponent": false,
-  "statusEffects": null,
+  "statusEffects": [
+    {
+      "durationData": {
+        "duration": -1,
+        "stackLimit": -1
+      },
+      "targetingData": {
+        "effectTriggerType": "Passive",
+        "effectTargetType": "Creator"
+      },
+      "effectType": "StatisticEffect",
+      "Description": {
+        "Id": "MaxEvasionBase",
+        "Name": "EVASIVE MOVE",
+        "Details": "This unit generates an extra EVASIVE charge from movement actions (up to its maximum).",
+        "Icon": "uixSvgIcon_action_evasivemove"
+      },
+      "statisticData": {
+        "statName": "MaxEvasivePips",
+        "operation": "Int_Add",
+        "modValue": "2",
+        "modType": "System.Int32"
+      },
+      "nature": "Buff"
+    }
+  ],
   "ComponentTags": {
     "items": [
       "ProtoGear",
@@ -72,7 +97,8 @@
       "BLACKLISTED",
       "ProtoEngine",
       "BAIncompatible",
-      "EnginePart"
+      "EnginePart",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

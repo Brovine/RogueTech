@@ -42,7 +42,7 @@
     "UIName": "Rifleman II RFL-3N-2",
     "Id": "mechdef_rifleman_ii_RFL-3N-2",
     "Name": "Rifleman II RFL-3N-2",
-    "Details": "The Rifleman II was an upgrade fielded by the SLDF Royals in 2720, adding twenty tons to its overall mass. The Rifleman II used an Endo Steel structure and an XL Engine, and carried a pair of LB-X Autocannon/10s and Large Pulse Lasers, one in each arm, as well as a pair of Medium Lasers, a Beagle Active Probe, and fourteen Double Heat Sinks.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The Rifleman II was an upgrade fielded by the SLDF Royals in 2720, adding twenty tons to its overall mass. The Rifleman II used an Endo Steel structure and an XL Engine, and carried a pair of LB-X Autocannon/10s and Large Pulse Lasers, one in each arm, as well as a pair of Medium Lasers, a Beagle Active Probe, and fourteen Double Heat Sinks.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "Rifleman1"
   },
   "simGameMechPartCost": 458741,
@@ -50,19 +50,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -42,7 +42,7 @@
     "UIName": "Wolfhound WLF-4WB",
     "Id": "mechdef_wolfhound_WLF-4WB",
     "Name": "Wolfhound WLF-4WB",
-    "Details": "Based upon the 4WA from Arc-Royal MechWorks is this version made to order to incorporate a Chameleon Light Polarization Suite to bring its Capacitor enhanced PPC's close enough for a deadly precision strike.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - Energy</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>\n\n",
+    "Details": "Based upon the 4WA from Arc-Royal MechWorks is this version made to order to incorporate a Chameleon Light Polarization Suite to bring its Capacitor enhanced PPC's close enough for a deadly precision strike.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - Energy</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>",
     "Icon": "uixTxrIcon_wolfhound"
   },
   "simGameMechPartCost": 144176,
@@ -50,19 +50,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 55,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 55,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 55,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 55,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 75,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 75,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 75,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 75,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

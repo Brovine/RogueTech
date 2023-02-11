@@ -41,7 +41,7 @@
   },
   "ChassisID": "chassisdef_Basilisk_CPLT-S7",
   "Description": {
-    "Cost": 448105,
+    "Cost": 444261,
     "Rarity": 10,
     "Purchasable": true,
     "Manufacturer": null,
@@ -49,27 +49,27 @@
     "UIName": "Basilisk CPLT-S7",
     "Id": "mechdef_Basilisk_CPLT-S7",
     "Name": "Catapult CPLT-S7",
-    "Details": "The Basilisk is an agile Fire Support Platform, able to dish out high damage at extreme ranges while staying relatively safe itself, some refer to it as a Mad Catapult.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.19</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The Basilisk is an agile Fire Support Platform, able to dish out high damage at extreme ranges while staying relatively safe itself, some refer to it as a Mad Catapult.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.19</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_catapult"
   },
-  "simGameMechPartCost": 448105,
+  "simGameMechPartCost": 444261,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -102,28 +102,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

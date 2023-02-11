@@ -47,7 +47,7 @@
     "UIName": "Mad Cat Mk II RSC",
     "Id": "mechdef_mad_cat_mk_ii_MCII-RSC",
     "Name": "Mad Cat Mk II RSC",
-    "Details": "Aquired from Clan Diamond Shark has this 'Mad Cat MKII' refit with RISC technologies and designed to carry 2 prototype Risc Hyper Assault Gauss Rifles, though carrying only 6 salvos for its primary weapons, does this platform offer unparralled firepower in its Class.\n\n<b><color=#e62e00>Quirk: Improved Targeting - Medium</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.25</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "Aquired from Clan Diamond Shark has this 'Mad Cat MKII' refit with RISC technologies and designed to carry 2 prototype Risc Hyper Assault Gauss Rifles, though carrying only 6 salvos for its primary weapons, does this platform offer unparralled firepower in its Class.\n\n<b><color=#e62e00>Quirk: Improved Targeting - Medium</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.25</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_madcatmkii"
   },
   "simGameMechPartCost": 536357,
@@ -55,19 +55,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -100,28 +100,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 95,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 95,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

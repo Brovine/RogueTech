@@ -103,7 +103,7 @@
   },
   "ChassisID": "chassisdef_jenner_JR7-D",
   "Description": {
-    "Cost": 127642,
+    "Cost": 126495,
     "Rarity": 1,
     "Purchasable": true,
     "Manufacturer": null,
@@ -111,27 +111,27 @@
     "UIName": "Jenner JR7-D",
     "Id": "mechdef_jenner_JR7-D",
     "Name": "Jenner JR7-D",
-    "Details": "Jenner Ds run hot, and they run fast but can quickly bound into combat to deliver a knockout punch, even against heavier units. Their capability with speed and weaponry tends to come at the expense of lower armor capacity, though.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Jenner Ds run hot, and they run fast but can quickly bound into combat to deliver a knockout punch, even against heavier units. Their capability with speed and weaponry tends to come at the expense of lower armor capacity, though.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_jenner"
   },
-  "simGameMechPartCost": 127642,
+  "simGameMechPartCost": 126495,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 35,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 35,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 20,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 20,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -164,28 +164,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 20,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 20,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

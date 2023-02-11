@@ -34,7 +34,7 @@
   },
   "ChassisID": "chassisdef_annihilator_ANH-5W",
   "Description": {
-    "Cost": 656500,
+    "Cost": 650591,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -42,27 +42,27 @@
     "UIName": "Annihilator ANH-5W",
     "Id": "mechdef_annihilator_ANH-5W",
     "Name": "Annihilator ANH-5W",
-    "Details": "Still a fearsome and powerful design, where the original Annihilator-1A carries a bevy of powerful autocannons, the -1E instead opts for an all-energy weapon loadout. Four Particle Projection Cannons give the Annihilator-1E a brutal and incredibly powerful punch while the Medium Lasers from the -1A are carried over for in-close protection while increasing the armor protection somewhat to mitigate enemy return fire.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.24</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "Still a fearsome and powerful design, where the original Annihilator-1A carries a bevy of powerful autocannons, the -1E instead opts for an all-energy weapon loadout. Four Particle Projection Cannons give the Annihilator-1E a brutal and incredibly powerful punch while the Medium Lasers from the -1A are carried over for in-close protection while increasing the armor protection somewhat to mitigate enemy return fire.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.24</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_annihilator"
   },
-  "simGameMechPartCost": 656500,
+  "simGameMechPartCost": 650591,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 160,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 160,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 160,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 160,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

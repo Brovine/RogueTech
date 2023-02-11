@@ -20,7 +20,6 @@
       "Recoil: -1",
       "EvaMax: +1",
       "Initiative: +1",
-      "Resolve: +1",
       "FailChance: 1%",
       "FailInjury"
     ],
@@ -48,10 +47,10 @@
       "default"
     ],
     "IBLS": {
-      "StorageSize": 2
+      "StorageSize": 5
     },
     "Lootable": "Gear_FCS_VDNI",
-    "VehicleCriticalEffects": {
+    "CriticalEffects": {
       "LinkedStatisticName": "VehicleCrewCompartmentCrits",
       "PenalizedEffectIDs": [
         [
@@ -91,7 +90,7 @@
   "ComponentSubType": "NotSet",
   "PrefabIdentifier": "",
   "BattleValue": 0,
-  "InventorySize": 2,
+  "InventorySize": 5,
   "Tonnage": 0,
   "AllowedLocations": "All",
   "DisallowedLocations": "All",
@@ -343,7 +342,8 @@
       "cae_ai_offence",
       "cae_ai_defence",
       "BAIncompatible",
-      "ProtoIncompatible"
+      "ProtoIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

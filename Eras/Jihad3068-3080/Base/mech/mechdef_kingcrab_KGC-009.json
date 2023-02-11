@@ -31,7 +31,7 @@
   },
   "ChassisID": "chassisdef_kingcrab_KGC-009",
   "Description": {
-    "Cost": 505000,
+    "Cost": 500455,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -39,27 +39,27 @@
     "UIName": "King Crab KGC-009",
     "Id": "mechdef_kingcrab_KGC-009",
     "Name": "King Crab KGC-009",
-    "Details": "The KGC-009 King Crab is notoriously difficult to put down, thanks to heavy armor and a reinforced gyro that can keep the machine on its feet even when faced with withering fire.\n\n<b><color=#e62e00>Quirk: Command Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.18</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The KGC-009 King Crab is notoriously difficult to put down, thanks to heavy armor and a reinforced gyro that can keep the machine on its feet even when faced with withering fire.\n\n<b><color=#e62e00>Quirk: Command Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.18</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_kingcrab"
   },
-  "simGameMechPartCost": 505000,
+  "simGameMechPartCost": 500455,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -92,28 +92,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 210,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 210,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 210,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 210,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

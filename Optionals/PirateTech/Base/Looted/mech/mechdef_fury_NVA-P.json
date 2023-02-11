@@ -48,7 +48,7 @@
     "UIName": "Fury NVA-P",
     "Id": "mechdef_fury_NVA-P",
     "Name": "Nova P",
-    "Details": "The 'Fury' was built on a salvaged Nova Chassis, bringing the full Wrath of its Designer to bear is it emulating the intense firepower of a Nova Prime Alpha Strike by using an Array of Jury Rigged Chemical Lasers. \n\n<b><color=#e62e00>Quirk: Accurate Weapon - Energy</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.1</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The 'Fury' was built on a salvaged Nova Chassis, bringing the full Wrath of its Designer to bear is it emulating the intense firepower of a Nova Prime Alpha Strike by using an Array of Jury Rigged Chemical Lasers. \n\n<b><color=#e62e00>Quirk: Accurate Weapon - Energy</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.1</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_nova"
   },
   "simGameMechPartCost": 192093,
@@ -56,19 +56,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -101,28 +101,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

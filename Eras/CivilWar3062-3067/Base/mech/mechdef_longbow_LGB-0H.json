@@ -31,7 +31,7 @@
   },
   "ChassisID": "chassisdef_longbow_LGB-0H",
   "Description": {
-    "Cost": 420929,
+    "Cost": 417281,
     "Rarity": 4,
     "Purchasable": true,
     "Manufacturer": null,
@@ -39,27 +39,27 @@
     "UIName": "Longbow LGB-0H",
     "Id": "mechdef_longbow_LGB-0H",
     "Name": "Longbow LGB-0H",
-    "Details": "The -0H is quite different from the other Longbow variants whose designation starts with -0x. The combination of two PPCs and 26 Rocket Launchers makes a unusual pairing and the purpose of the 'Mech can be seen as quite niched toward sudden alpha strikes.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.13</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The -0H is quite different from the other Longbow variants whose designation starts with -0x. The combination of two PPCs and 26 Rocket Launchers makes a unusual pairing and the purpose of the 'Mech can be seen as quite niched toward sudden alpha strikes.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.13</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_longbow"
   },
-  "simGameMechPartCost": 420929,
+  "simGameMechPartCost": 417281,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 115,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 115,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -92,28 +92,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 115,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 115,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 135,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 135,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 135,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 135,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -59,7 +59,7 @@
   },
   "ChassisID": "chassisdef_corsair_COR-6R",
   "Description": {
-    "Cost": 482064,
+    "Cost": 477727,
     "Rarity": 4,
     "Purchasable": true,
     "Manufacturer": null,
@@ -67,27 +67,27 @@
     "UIName": "Corsair COR-6R",
     "Id": "mechdef_corsair_COR-6R",
     "Name": "Corsair COR-6R",
-    "Details": "While Corsair is supposedly a generic Periphery term referring to heavy and assault class FrankenMechs cobbled together out of desperation as the Succession War era dragged on, with no specific weight or base chassis, the most successful of these are ninety-five ton brutes modeled in a generally similar style, usually marked with a COR designation.\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.15</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Upper</color>\n\n",
+    "Details": "While Corsair is supposedly a generic Periphery term referring to heavy and assault class FrankenMechs cobbled together out of desperation as the Succession War era dragged on, with no specific weight or base chassis, the most successful of these are ninety-five ton brutes modeled in a generally similar style, usually marked with a COR designation.\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.15</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Upper</color>",
     "Icon": "corsair3"
   },
-  "simGameMechPartCost": 482064,
+  "simGameMechPartCost": 477727,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 115,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 115,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -120,28 +120,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 115,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 115,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 100,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 100,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

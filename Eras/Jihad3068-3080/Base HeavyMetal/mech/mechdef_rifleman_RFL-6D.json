@@ -39,7 +39,7 @@
     "UIName": "Rifleman RFL-6D",
     "Id": "mechdef_rifleman_RFL-6D",
     "Name": "Rifleman RFL-6D",
-    "Details": "This production model of the 6X introduced in 3069 replaces the Small Lasers with a head-mounted C3 Slave to aid it in targeting. It leaves everything else except for the autocannon intact. They are replaced with a pair of Mydron Snakekiller Light Autocannon/5s in each arm. Each arm is fed by three-ton ammunition bins, each of which are protected by CASE. The large ammunition bins allow a variety of ammunition types to used.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.08</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "This production model of the 6X introduced in 3069 replaces the Small Lasers with a head-mounted C3 Slave to aid it in targeting. It leaves everything else except for the autocannon intact. They are replaced with a pair of Mydron Snakekiller Light Autocannon/5s in each arm. Each arm is fed by three-ton ammunition bins, each of which are protected by CASE. The large ammunition bins allow a variety of ammunition types to used.\n\n<b><color=#e62e00>Quirk: Anti-Air Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.08</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "Rifleman"
   },
   "simGameMechPartCost": 262009,
@@ -47,19 +47,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 95,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 95,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -92,28 +92,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 95,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 95,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

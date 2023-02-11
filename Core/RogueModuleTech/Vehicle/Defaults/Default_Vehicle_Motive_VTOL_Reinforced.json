@@ -14,9 +14,7 @@
       "DamageTaken: -20%",
       "CritRes: 25%",
       "Defense: +1",
-      "Accuracy: +1",
-      "EvaPips: +1",
-      "EvaMax: +3"
+      "Accuracy: +1"
     ],
     "Flags": [
       "default",
@@ -26,9 +24,9 @@
       "autorepair"
     ],
     "IBLS": {
-      "StorageSize": 6
+      "StorageSize": 10
     },
-    "VehicleCriticalEffects": {
+    "CriticalEffects": {
       "LinkedStatisticName": "VehicleMotiveVTOLReinforcedCrits",
       "PenalizedEffectIDs": [
         [
@@ -61,11 +59,11 @@
     "Rarity": 99,
     "Purchasable": true,
     "Manufacturer": "Generic",
-    "Model": "VTOL Gearbox Reinforced",
-    "UIName": "VTOL Gearbox Reinforced",
+    "Model": "Generic",
+    "UIName": "VTOL Propulsion [Armored]",
     "Id": "Default_Vehicle_Motive_VTOL_Reinforced",
-    "Name": "VTOL Gearbox Reinforced",
-    "Details": "VTOL Gearbox Reinforced",
+    "Name": "VTOL Propulsion [Armored]",
+    "Details": "A VTOL (Vertical Takeoff and Landing) craft is one that uses thrust to take off or land vertically, usually with the assistance of propellers and/or rotors. The most common VTOL craft is a helicopter, though traditional-looking airplanes can use vertical thrust to achieve the same result, often at a higher rate of speed. VTOLs often excel in situations where traditional aircraft would not have the space to take off or land, such as on aircraft carriers or in restrictive terrain such as mountains.",
     "Icon": "uixSvgIcon_equipment_HeatBank"
   },
   "BonusValueA": "",
@@ -74,7 +72,7 @@
   "ComponentSubType": "NotSet",
   "PrefabIdentifier": "",
   "BattleValue": 0,
-  "InventorySize": 6,
+  "InventorySize": 10,
   "Tonnage": 0,
   "AllowedLocations": "All",
   "DisallowedLocations": "All",
@@ -139,56 +137,6 @@
         "operation": "Float_Add",
         "modValue": "-0.2",
         "modType": "System.Single"
-      },
-      "nature": "Buff"
-    },
-    {
-      "durationData": {
-        "duration": -1,
-        "stackLimit": -1
-      },
-      "targetingData": {
-        "effectTriggerType": "Passive",
-        "effectTargetType": "Creator",
-        "showInStatusPanel": false
-      },
-      "effectType": "StatisticEffect",
-      "Description": {
-        "Id": "GainEvasion",
-        "Name": "EVASIVE MOVE",
-        "Details": "This unit generates an extra EVASIVE charge from movement actions (up to its maximum).",
-        "Icon": "uixSvgIcon_action_evasivemove"
-      },
-      "statisticData": {
-        "effectsPersistAfterDestruction": false,
-        "statName": "EvasivePipsGainedAdditional",
-        "operation": "Int_Add",
-        "modValue": "1",
-        "modType": "System.Int32"
-      },
-      "nature": "Buff"
-    },
-    {
-      "durationData": {
-        "duration": -1,
-        "stackLimit": -1
-      },
-      "targetingData": {
-        "effectTriggerType": "Passive",
-        "effectTargetType": "Creator"
-      },
-      "effectType": "StatisticEffect",
-      "Description": {
-        "Id": "MaxEvasion",
-        "Name": "EVASIVE MOVE",
-        "Details": "This unit generates an extra EVASIVE charge from movement actions (up to its maximum).",
-        "Icon": "uixSvgIcon_action_evasivemove"
-      },
-      "statisticData": {
-        "statName": "MaxEvasivePips",
-        "operation": "Int_Add",
-        "modValue": "3",
-        "modType": "System.Int32"
       },
       "nature": "Buff"
     },
@@ -345,6 +293,71 @@
         "modValue": "true",
         "modType": "System.Boolean"
       }
+    },
+    {
+      "durationData": {
+        "duration": -1,
+        "ticksOnActivations": false,
+        "useActivationsOfTarget": false,
+        "ticksOnEndOfRound": false,
+        "ticksOnMovements": false,
+        "stackLimit": -1,
+        "clearedWhenAttacked": false
+      },
+      "targetingData": {
+        "effectTriggerType": "Passive",
+        "triggerLimit": 0,
+        "extendDurationOnTrigger": 0,
+        "specialRules": "NotSet",
+        "effectTargetType": "Creator",
+        "range": 0,
+        "forcePathRebuild": false,
+        "forceVisRebuild": false,
+        "showInTargetPreview": false,
+        "showInStatusPanel": false
+      },
+      "effectType": "StatisticEffect",
+      "Description": {
+        "Id": "Spall_Liner_Effect2",
+        "Name": "Spall Liner",
+        "Details": "Chassis takes less Damage",
+        "Icon": "uixSvgIcon_roomMechBay"
+      },
+      "statisticData": {
+        "statName": "CACAoEDamageMult",
+        "operation": "Float_Add",
+        "modValue": "-0.2",
+        "modType": "System.Single"
+      },
+      "nature": "Buff"
+    },
+    {
+      "durationData": {
+        "duration": -1,
+        "stackLimit": -1
+      },
+      "targetingData": {
+        "effectTriggerType": "Passive",
+        "effectTargetType": "Creator",
+        "showInTargetPreview": false,
+        "showInStatusPanel": false
+      },
+      "effectType": "StatisticEffect",
+      "Description": {
+        "Id": "Status-RotorDR-{location}",
+        "Name": "Rotor DR",
+        "Details": "Global control for buffing VTOL rotor durability",
+        "Icon": "uixSvgIcon_equipment_ActuatorArm"
+      },
+      "nature": "Buff",
+      "statisticData": {
+        "effectsPersistAfterDestruction": true,
+        "statName": "CACAoEDamageMult",
+        "operation": "Float_Multiply",
+        "modValue": "0.2",
+        "modType": "System.Single",
+        "Location": "{current}"
+      }
     }
   ],
   "ComponentTags": {
@@ -354,7 +367,8 @@
       "WikiWL",
       "component_type_stock",
       "BAIncompatible",
-      "ProtoIncompatible"
+      "ProtoIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

@@ -37,7 +37,7 @@
   },
   "ChassisID": "chassisdef_eris_ERS-2N",
   "Description": {
-    "Cost": 168551,
+    "Cost": 167037,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": null,
@@ -45,27 +45,27 @@
     "UIName": "Eris ERS-2N",
     "Id": "mechdef_eris_ERS-2N",
     "Name": "Eris ERS-2N",
-    "Details": "The 2N variant goes in even deeper for the fast skirmisher and flanker design concept, as it adds a Partial Wing at the cost of removing all external heat sinks. It's weaponry is also change to be more effective at sudden alpha strikes from behind, mounting a Snub-Nose PPC and two MML 5 launchers in combination with three Small X-Pulse lasers.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>\n\n",
-    "Icon": "uixTxrIcon_wolverine"
+    "Details": "The 2N variant goes in even deeper for the fast skirmisher and flanker design concept, as it adds a Partial Wing at the cost of removing all external heat sinks. It's weaponry is also change to be more effective at sudden alpha strikes from behind, mounting a Snub-Nose PPC and two MML 5 launchers in combination with three Small X-Pulse lasers.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>",
+    "Icon": "uixTxrIcon_Eris"
   },
-  "simGameMechPartCost": 168551,
+  "simGameMechPartCost": 167037,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 75,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 75,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -98,28 +98,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 75,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 75,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 115,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 115,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 115,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 115,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -106,7 +106,7 @@
     "UIName": "Catapult CPLT-X1",
     "Id": "mechdef_catapult_CPLT-X1",
     "Name": "Catapult CPLT-X1",
-    "Details": "A Retro Tech upgrade to the aging Catapult design, remodelled to employ 2 MARS Rocket Artillery Systems, Partial Wings and a uncanny ability to redeploy its mighty but limited payload as required.\n\n<b><color=#e62e00>Quirk: Stubble Wings</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.07</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "A Retro Tech upgrade to the aging Catapult design, remodelled to employ 2 MARS Rocket Artillery Systems, Partial Wings and a uncanny ability to redeploy its mighty but limited payload as required.\n\n<b><color=#e62e00>Quirk: Stubble Wings</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.07</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_catapult"
   },
   "simGameMechPartCost": 283302,
@@ -114,19 +114,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -159,28 +159,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

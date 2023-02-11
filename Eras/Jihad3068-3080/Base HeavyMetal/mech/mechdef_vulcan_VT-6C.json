@@ -41,7 +41,7 @@
     "UIName": "Vulcan VT-6C",
     "Id": "mechdef_vulcan_VT-6C",
     "Name": "Vulcan VT-6C",
-    "Details": "The 6C was produced by the Word of Blake starting in 3070 so that their Vulcans could be integrated in a C3 network. This upgraded version of the 5M swapped out the lasers for an ER Large Laser and ER Medium Laser, respectively. The weight saved was used to install a C3i Computer. The removal of a heat sink allowed for the replacement of the machine gun with three Light Machine Guns linked to a Machine Gun Array.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The 6C was produced by the Word of Blake starting in 3070 so that their Vulcans could be integrated in a C3 network. This upgraded version of the 5M swapped out the lasers for an ER Large Laser and ER Medium Laser, respectively. The weight saved was used to install a C3i Computer. The removal of a heat sink allowed for the replacement of the machine gun with three Light Machine Guns linked to a Machine Gun Array.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_vulcan"
   },
   "simGameMechPartCost": 141792,
@@ -49,19 +49,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -94,28 +94,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

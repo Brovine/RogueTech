@@ -43,7 +43,7 @@
   },
   "ChassisID": "chassisdef_goliath_GOL-6H",
   "Description": {
-    "Cost": 409545,
+    "Cost": 405901,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": null,
@@ -54,25 +54,25 @@
     "Details": "This variant uses a Light Engine to power a design that is similar to the 3M, but with added anti-infantry capabilities. The pair of LRM-10s are still present, along with a two-ton, CASE-protected ammunition bin. Also for use at long range is the Heavy PPC that deals as much damage as the 3M's Gauss Rifle, albeit at reduced range. Up close, the 6H can call upon two Machine Gun Array-linked trios of Light Machine Guns. This variant also has a B-Pod in each of its legs to protect against attacks from battle armor.\n\n<b><color=#e62e00>Quirk: Quad Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
     "Icon": "Goliath"
   },
-  "simGameMechPartCost": 409545,
+  "simGameMechPartCost": 405901,
   "HeraldryID": null,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -105,28 +105,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

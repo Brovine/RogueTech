@@ -33,7 +33,7 @@
   },
   "ChassisID": "chassisdef_penetrator_PTR-6M",
   "Description": {
-    "Cost": 393889,
+    "Cost": 390321,
     "Rarity": 1,
     "Purchasable": true,
     "Manufacturer": null,
@@ -41,27 +41,27 @@
     "UIName": "Penetrator PTR-6M",
     "Id": "mechdef_penetrator_PTR-6M",
     "Name": "Penetrator PTR-6M",
-    "Details": "The 6M is a variant of the Penetrator that looks to alleviate the 'Mech's heat build up by removing two of the Medium Pulse Lasers and replacing them with five additional double heat sinks.\n\n<b><color=#e62e00>Quirk: Stable</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The 6M is a variant of the Penetrator that looks to alleviate the 'Mech's heat build up by removing two of the Medium Pulse Lasers and replacing them with five additional double heat sinks.\n\n<b><color=#e62e00>Quirk: Stable</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "Penetrator"
   },
-  "simGameMechPartCost": 393889,
+  "simGameMechPartCost": 390321,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -94,28 +94,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

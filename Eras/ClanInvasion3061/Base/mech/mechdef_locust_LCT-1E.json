@@ -89,7 +89,7 @@
   },
   "ChassisID": "chassisdef_locust_LCT-1E",
   "Description": {
-    "Cost": 57381,
+    "Cost": 56887,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": null,
@@ -97,27 +97,27 @@
     "UIName": "Locust LCT-1E",
     "Id": "mechdef_locust_LCT-1E",
     "Name": "Locust LCT-1E",
-    "Details": "The Locust 1E was an attempt to turn the Locust into a viable front line mech by increasing its firepower with an additional Medium Laser.  Having removed its reliance on ammunition, the Locust is able to operate for an extended amount of time without supplies.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.95</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The Locust 1E was an attempt to turn the Locust into a viable front line mech by increasing its firepower with an additional Medium Laser.  Having removed its reliance on ammunition, the Locust is able to operate for an extended amount of time without supplies.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.95</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_locust"
   },
-  "simGameMechPartCost": 57381,
+  "simGameMechPartCost": 56887,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 20,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 15,
       "AssignedArmor": 20,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -150,28 +150,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 20,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 15,
       "AssignedArmor": 20,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

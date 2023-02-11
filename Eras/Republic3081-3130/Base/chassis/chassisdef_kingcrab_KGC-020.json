@@ -46,7 +46,7 @@
     "UIName": "King Crab",
     "Id": "chassisdef_kingcrab_KGC-020",
     "Name": "King Crab",
-    "Details": "A ultra rare hand crafted King Crab, fielding a Chameleon LPS is this Behemoth able to reliable shred its unsuspecting targets with 2 Silver Bullet Gauss Rifles.\n\n<b><color=#e62e00>Quirk: Command Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.22</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "A ultra rare hand crafted King Crab, fielding a Chameleon LPS is this Behemoth able to reliable shred its unsuspecting targets with 2 Silver Bullet Gauss Rifles.\n\n<b><color=#e62e00>Quirk: Command Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.22</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_kingcrab"
   },
   "VariantName": "KGC-020",
@@ -97,12 +97,7 @@
   "Locations": [
     {
       "Location": "Head",
-      "Hardpoints": [
-        {
-          "WeaponMountID": "Missile",
-          "Omni": false
-        }
-      ],
+      "Hardpoints": [],
       "Tonnage": 0,
       "InventorySlots": 6,
       "MaxArmor": 45,
@@ -134,10 +129,6 @@
     {
       "Location": "LeftTorso",
       "Hardpoints": [
-        {
-          "WeaponMountID": "Ballistic",
-          "Omni": false
-        },
         {
           "WeaponMountID": "Energy",
           "Omni": false
@@ -175,7 +166,19 @@
       "Location": "RightTorso",
       "Hardpoints": [
         {
+          "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
+        {
           "WeaponMountID": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMountID": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMountID": "Missile",
           "Omni": false
         },
         {
@@ -194,10 +197,6 @@
       "Hardpoints": [
         {
           "WeaponMountID": "Ballistic",
-          "Omni": false
-        },
-        {
-          "WeaponMountID": "Missile",
           "Omni": false
         },
         {

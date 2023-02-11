@@ -13,18 +13,18 @@
       "OHDamage: 50%",
       "PLASMADEBUFF: 15%",
       "DmgFallOff: 70%",
-      "WeaponGaussBoom: 30",
       "IsPalasma: 10%",
       "MisfireChanceMode1: 15%, Boiling",
       "MisfireChanceMode2: 20%, Boiling+",
       "MisfireChanceMode3: 25%, Warning",
       "MisfireChanceMode4: 30%, WARNING!!!",
-      "MisfireChanceMode5: 35%, DANGER!!!"
+      "MisfireChanceMode5: 35%, DANGER!!!",
+      "WeaponExplosionInertAmmo: 15, 22.5, 3.8"
     ],
     "ComponentExplosion": {
-      "ExplosionDamagePerAmmo": 30,
-      "StabilityDamagePerAmmo": 10,
-      "HeatDamagePerAmmo": 15
+      "ExplosionDamagePerAmmo": 15.0,
+      "HeatDamagePerAmmo": 22.5,
+      "StabilityDamagePerAmmo": 3.75
     },
     "Flags": [
       "not_broken"
@@ -445,7 +445,8 @@
       "component_type_stock",
       "range_standard",
       "OmniRestriction.{location}",
-      "BAIncompatible"
+      "BAIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

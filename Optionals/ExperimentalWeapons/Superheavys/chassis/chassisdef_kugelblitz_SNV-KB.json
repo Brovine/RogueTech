@@ -31,7 +31,7 @@
     }
   ],
   "Description": {
-    "Cost": 4646339,
+    "Cost": 4605509,
     "Rarity": 10,
     "Purchasable": true,
     "Manufacturer": "",
@@ -39,7 +39,7 @@
     "UIName": "Supernova",
     "Id": "chassisdef_kugelblitz_SNV-KB",
     "Name": "Supernova",
-    "Details": "Besides its advanced armor, the Kugelblitz also brings other advanced technology such a prototype heat sinks and heavy patchwork materials usage to save weight.\n\n<b><color=#e62e00>Quirk: Improved Targeting - Long</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.38</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "Besides its advanced armor, the Kugelblitz also brings other advanced technology such a prototype heat sinks and heavy patchwork materials usage to save weight.\n\n<b><color=#e62e00>Quirk: Improved Targeting - Long</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.38</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "Kugelblitz"
   },
   "VariantName": "SNV-KB",
@@ -169,6 +169,10 @@
     {
       "Location": "RightTorso",
       "Hardpoints": [
+        {
+          "WeaponMountID": "Energy",
+          "Omni": false
+        },
         {
           "WeaponMountID": "Energy",
           "Omni": false

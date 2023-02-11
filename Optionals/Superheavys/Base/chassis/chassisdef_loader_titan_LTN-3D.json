@@ -49,7 +49,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "Gear_Engine_ICE",
+      "ComponentDefID": "Lootable_Engine_ICE",
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,
       "DamageLevel": "Functional"
@@ -70,7 +70,7 @@
     }
   ],
   "Description": {
-    "Cost": 3239286,
+    "Cost": 3210841,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": "New Dublin Industrial Tech",
@@ -203,6 +203,10 @@
     {
       "Location": "RightTorso",
       "Hardpoints": [
+        {
+          "WeaponMountID": "Missile",
+          "Omni": false
+        },
         {
           "WeaponMountID": "Missile",
           "Omni": false

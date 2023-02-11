@@ -44,7 +44,7 @@
     "UIName": "Raijin II RJN-200-A",
     "Id": "mechdef_raijin_ii_RJN-200-A",
     "Name": "Raijin II RJN-200-A",
-    "Details": "The first of the Raijin II designs, the 200-A model completely redesigns the 'Mech to enhance its combat capabilities and is built on an Endo Steel chassis to save weight. Increased ground speed is achieved through the use of Triple Strength Myomers that increases the 'Mech's top speed to 118.8 km/h under the proper conditions. The 200-A model is protected by a respectable eleven tons of standard armor; giving it superior armor protection to older models. The 'Mech is armed with an ER PPC as its primary weapon. This is supported by three ER Medium Lasers and a Streak SRM-4 launcher for close combat. The RJN-200-A also carries a C3i Computer, allowing it to share targeting data with friendly units.\n\n<b><color=#e62e00>Quirk: Extended Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The first of the Raijin II designs, the 200-A model completely redesigns the 'Mech to enhance its combat capabilities and is built on an Endo Steel chassis to save weight. Increased ground speed is achieved through the use of Triple Strength Myomers that increases the 'Mech's top speed to 118.8 km/h under the proper conditions. The 200-A model is protected by a respectable eleven tons of standard armor; giving it superior armor protection to older models. The 'Mech is armed with an ER PPC as its primary weapon. This is supported by three ER Medium Lasers and a Streak SRM-4 launcher for close combat. The RJN-200-A also carries a C3i Computer, allowing it to share targeting data with friendly units.\n\n<b><color=#e62e00>Quirk: Extended Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_ionraptor"
   },
   "simGameMechPartCost": 170094,
@@ -52,19 +52,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -97,28 +97,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

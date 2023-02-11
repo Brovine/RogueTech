@@ -35,7 +35,7 @@
   },
   "ChassisID": "chassisdef_ostsol_OTL-5D",
   "Description": {
-    "Cost": 255000,
+    "Cost": 252748,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": null,
@@ -46,24 +46,24 @@
     "Details": "A House Davion upgrade of the 4D model first fielded in 3065, the 5D upgrades its armor to eight and a half tons of Ferro-Fibrous armor and mounts five additional Rocket Launcher 10s, giving the Ostsol incredible one-shot firepower in a pinch and added shock value when facing an enemy. The fact it is very similar to the Taurian Concordat's OSR-3C Ostroc has raised questions as to the variant's origins.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>",
     "Icon": "uixTxrIcon_ostsol"
   },
-  "simGameMechPartCost": 255000,
+  "simGameMechPartCost": 252748,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -96,28 +96,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 50,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 50,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

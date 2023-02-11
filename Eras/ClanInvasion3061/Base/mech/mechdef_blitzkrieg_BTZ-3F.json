@@ -44,7 +44,7 @@
     "UIName": "Blitzkrieg BTZ-3F",
     "Id": "mechdef_blitzkrieg_BTZ-3F",
     "Name": "Blitzkrieg BTZ-3F",
-    "Details": "Taking its name from a term meaning 'Lightning War' the Blitzkrieg completely lives up to the name. The Blitzkrieg is built on a lightweight Coventry BTZ-VII Endo Steel chassis and is powered by a Magna 350 XL engine that weighs half as much as a standard fusion engine while giving the 'Mech a top speed of 118.8 km/h.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - Ballistics</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Taking its name from a term meaning 'Lightning War' the Blitzkrieg completely lives up to the name. The Blitzkrieg is built on a lightweight Coventry BTZ-VII Endo Steel chassis and is powered by a Magna 350 XL engine that weighs half as much as a standard fusion engine while giving the 'Mech a top speed of 118.8 km/h.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - Ballistics</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "Blitzkrieg"
   },
   "simGameMechPartCost": 170094,
@@ -52,19 +52,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -97,28 +97,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 60,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 60,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 60,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 60,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

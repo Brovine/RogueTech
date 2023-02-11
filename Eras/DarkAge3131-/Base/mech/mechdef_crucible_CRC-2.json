@@ -45,7 +45,7 @@
     "UIName": "Crucible 2",
     "Id": "mechdef_crucible_CRC-2",
     "Name": "Crucible 2",
-    "Details": "This Crucible retains the torso mounted Gauss Rifles, but each arm carries an ER PPC and Artemis V FCS-enhanced LRM-15 with two tons of ammunition. A Coolant Pod is in the center torso, supplementing the fourteen double heat sinks.\n\n<b><color=#e62e00>Quirk: Protected Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.24</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "This Crucible retains the torso mounted Gauss Rifles, but each arm carries an ER PPC and Artemis V FCS-enhanced LRM-15 with two tons of ammunition. A Coolant Pod is in the center torso, supplementing the fourteen double heat sinks.\n\n<b><color=#e62e00>Quirk: Protected Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.24</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "stonerhino"
   },
   "simGameMechPartCost": 662519,
@@ -53,19 +53,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -98,28 +98,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

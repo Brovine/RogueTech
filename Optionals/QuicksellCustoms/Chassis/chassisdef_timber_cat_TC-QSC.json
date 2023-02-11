@@ -54,6 +54,13 @@
       "DamageLevel": "Functional"
     },
     {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "Gear_Engine_Light_QSC",
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "DamageLevel": "Functional"
+    },
+    {
       "MountedLocation": "LeftTorso",
       "ComponentDefID": "Linked_Engine_Size_3",
       "ComponentDefType": "HeatSink",
@@ -66,13 +73,6 @@
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,
       "DamageLevel": "Functional"
-    },
-    {
-      "MountedLocation": "CenterTorso",
-      "ComponentDefID": "Gear_Engine_Light_QSC",
-      "ComponentDefType": "HeatSink",
-      "HardpointSlot": -1,
-      "DamageLevel": "Functional"
     }
   ],
   "Description": {
@@ -81,10 +81,10 @@
     "Purchasable": true,
     "Manufacturer": "",
     "Model": "",
-    "UIName": "Timber Wolf",
+    "UIName": "Timber Cat",
     "Id": "chassisdef_timber_cat_TC-QSC",
     "Name": "Timber Cat",
-    "Details": "Always wanted the iconic Clan Mad Cat, but worried about the technological issues with repairs? QuicSell is ecstatic to announce the Timber Cat for you Mercs with discerning tastes. Packing a pair of Streak PPCs, Medium REX lasers, and LRM 10s, you'll find yourself playing Clanner as you wipe opponents off the map. As for repairs, we here at QuicSell harken back to the Timber Cat's etymology, with our patented Clan Hardwood structure and wiring. So easy to repair, even the most inebriated inbred periphery mechanic can repair it.\\n\n\n<b><color=#e62e00>Quirk: Quicksell Clan Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Always wanted the iconic Clan Mad Cat, but worried about the technological issues with repairs? QuicSell is ecstatic to announce the Timber Cat for you Mercs with discerning tastes. Packing a pair of Streak PPCs, Medium REX lasers, and LRM 10s, you'll find yourself playing Clanner as you wipe opponents off the map. As for repairs, we here at QuicSell harken back to the Timber Cat's etymology, with our patented Clan Hardwood structure and wiring. So easy to repair, even the most inebriated inbred periphery mechanic can repair it.\\n\n\n<b><color=#e62e00>Quirk: Quicksell Clan Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "Timberwolf"
   },
   "VariantName": "TC-QSC",
@@ -165,7 +165,7 @@
         },
         {
           "WeaponMountID": "SpecialHandHeld",
-          "Omni": true
+          "Omni": false
         }
       ],
       "Tonnage": 0,
@@ -191,7 +191,7 @@
         },
         {
           "WeaponMountID": "Special",
-          "Omni": true
+          "Omni": false
         }
       ],
       "Tonnage": 0,
@@ -231,7 +231,7 @@
         },
         {
           "WeaponMountID": "Special",
-          "Omni": true
+          "Omni": false
         }
       ],
       "Tonnage": 0,
@@ -257,7 +257,7 @@
         },
         {
           "WeaponMountID": "SpecialHandHeld",
-          "Omni": true
+          "Omni": false
         }
       ],
       "Tonnage": 0,

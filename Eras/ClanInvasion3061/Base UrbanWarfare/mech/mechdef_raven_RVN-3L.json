@@ -38,7 +38,7 @@
   },
   "ChassisID": "chassisdef_raven_RVN-3L",
   "Description": {
-    "Cost": 127642,
+    "Cost": 126495,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -46,27 +46,27 @@
     "UIName": "Raven RVN-3L",
     "Id": "mechdef_raven_RVN-3L",
     "Name": "Raven RVN-3L",
-    "Details": "The Raven was a light-weight electronic warfare BattleMech which, when it first debuted after the end of the Third Succession War, was not just one of the first truly original 'Mech designs produced in centuries, but also represented humanity's refusal to slide back technologically.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The Raven was a light-weight electronic warfare BattleMech which, when it first debuted after the end of the Third Succession War, was not just one of the first truly original 'Mech designs produced in centuries, but also represented humanity's refusal to slide back technologically.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "Raven2"
   },
-  "simGameMechPartCost": 127642,
+  "simGameMechPartCost": 126495,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 33,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 33,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -99,28 +99,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

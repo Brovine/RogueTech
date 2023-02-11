@@ -75,7 +75,7 @@
     }
   ],
   "Description": {
-    "Cost": 850472,
+    "Cost": 842757,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": "",
@@ -182,10 +182,6 @@
           "Omni": false
         },
         {
-          "WeaponMountID": "WingMountedWeapon",
-          "Omni": false
-        },
-        {
           "WeaponMountID": "Special",
           "Omni": false
         }
@@ -241,6 +237,10 @@
       "Hardpoints": [
         {
           "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
+        {
+          "WeaponMountID": "Energy",
           "Omni": false
         },
         {

@@ -42,7 +42,7 @@
     "UIName": "Cougar XR",
     "Id": "mechdef_cougar_COU-XR",
     "Name": "Cougar XR",
-    "Details": "This variant is apparently an attempt by the Jade Falcons to use experimental technology in a combat unit. Originally mistaken for a LAM, the Cougar-XR uses a Partial Wing to extend its jump range to 210 meters. An LRM-15 launcher equipped with Artemis V FCS is located in each side torso, while an ER Medium Pulse Laser provides direct fire. It appears that the Cougar-XR is a standard BattleMech instead of being an OmniMech like its progenitor design.\n\n<b><color=#e62e00>Quirk: Advanced Optics</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "This variant is apparently an attempt by the Jade Falcons to use experimental technology in a combat unit. Originally mistaken for a LAM, the Cougar-XR uses a Partial Wing to extend its jump range to 210 meters. An LRM-15 launcher equipped with Artemis V FCS is located in each side torso, while an ER Medium Pulse Laser provides direct fire. It appears that the Cougar-XR is a standard BattleMech instead of being an OmniMech like its progenitor design.\n\n<b><color=#e62e00>Quirk: Advanced Optics</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "cougar"
   },
   "simGameMechPartCost": 167452,
@@ -50,19 +50,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 65,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 65,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 65,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 65,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -11,15 +11,15 @@
     "BonusDescriptions": [
       "WeaponJAMFlat: 9%",
       "WpnAccuracy: -1",
-      "DakkaBoom: 8",
       "HMRM",
       "SuperheavyOnly",
-      "WeaponAttachmentCompatible: Apollo"
+      "WeaponAttachmentCompatible: Apollo",
+      "WeaponExplosionPerLoadedShot: 5.5, 3.3, 0.9"
     ],
     "ComponentExplosion": {
-      "ExplosionDamagePerAmmo": 8,
-      "StabilityDamagePerAmmo": 4,
-      "HeatDamagePerAmmo": 2
+      "ExplosionDamagePerAmmo": 5.5,
+      "HeatDamagePerAmmo": 3.25,
+      "StabilityDamagePerAmmo": 0.875
     },
     "Flags": [
       "not_broken",
@@ -77,11 +77,11 @@
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": "RISC",
-    "Model": "Heavy Medium Range Missiles",
-    "UIName": "Heavy MRM-30",
+    "Model": "OBSOLETE",
+    "UIName": "DEPRECATED - SELL THIS",
     "Id": "Weapon_MRM_Heavy_30",
     "Name": "H-MRM30",
-    "Details": "Based upon Advances by the Combine and with knowledge from Clan Missile Launchers, RISC Engineers developed the Heavy MRM, able to deliver a heavier payload with guided Missiles at extremely large Volley sizes. \n\n <b><color=#ffcc00>Uses H-MRM Ammo.</color></b>",
+    "Details": "SELL THIS",
     "Icon": "MRM"
   },
   "BonusValueA": "",
@@ -90,8 +90,8 @@
   "ComponentSubType": "Weapon",
   "PrefabIdentifier": "lrm15",
   "BattleValue": 0,
-  "InventorySize": 5,
-  "Tonnage": 10,
+  "InventorySize": 99,
+  "Tonnage": 999,
   "AllowedLocations": "All",
   "DisallowedLocations": "All",
   "CriticalComponent": false,
@@ -103,7 +103,8 @@
       "range_long",
       "BAIncompatible",
       "HMRM.{location}",
-      "ApolloHMRMSupported"
+      "ApolloHMRMSupported",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

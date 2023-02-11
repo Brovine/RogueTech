@@ -34,7 +34,7 @@
     }
   ],
   "Description": {
-    "Cost": 2300270,
+    "Cost": 2280000,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": "",
@@ -42,7 +42,7 @@
     "UIName": "Marauder",
     "Id": "chassisdef_Gungnir_MAD-S7",
     "Name": "Marauder",
-    "Details": "MAD-ness! This Marauder Variant was exclusively designed for the Deadly Sins stable on Solaris VII and has specialized support systems for Gauss & PPC Weapons. Hitting like an angry God.\n\n<b><color=#e62e00>Quirk: Advanced Optics</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.19</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "MAD-ness! This Marauder Variant was exclusively designed for the Deadly Sins stable on Solaris VII and has specialized support systems for Gauss & PPC Weapons. Hitting like an angry God.\n\n<b><color=#e62e00>Quirk: Advanced Optics</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.19</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "MarauderII"
   },
   "VariantName": "MAD-S7",
@@ -105,14 +105,6 @@
       "Location": "LeftArm",
       "Hardpoints": [
         {
-          "WeaponMountID": "Ballistic",
-          "Omni": false
-        },
-        {
-          "WeaponMountID": "Energy",
-          "Omni": false
-        },
-        {
           "WeaponMountID": "Energy",
           "Omni": false
         },
@@ -130,6 +122,10 @@
     {
       "Location": "LeftTorso",
       "Hardpoints": [
+        {
+          "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
         {
           "WeaponMountID": "Ballistic",
           "Omni": false
@@ -175,6 +171,18 @@
           "Omni": false
         },
         {
+          "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
+        {
+          "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
+        {
+          "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
+        {
           "WeaponMountID": "Special",
           "Omni": false
         }
@@ -194,10 +202,6 @@
         },
         {
           "WeaponMountID": "Energy",
-          "Omni": false
-        },
-        {
-          "WeaponMountID": "AntiPersonnel",
           "Omni": false
         },
         {

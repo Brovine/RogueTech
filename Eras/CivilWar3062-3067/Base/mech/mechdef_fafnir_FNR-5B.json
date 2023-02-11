@@ -37,7 +37,7 @@
     "UIName": "Fafnir FNR-5B",
     "Id": "mechdef_fafnir_FNR-5B",
     "Name": "Fafnir FNR-5B",
-    "Details": "A lack of Thor's Hammers during the FedCom Civil War forced engineers to come up with a field modification that could be useful without the Heavy Gauss Rifles. The solution was to replace them with paired standard Gauss Rifles, ER Medium Lasers, and an ER Large Laser.\n\n<b><color=#e62e00>Quirk: Stable Weapons</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.18</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "A lack of Thor's Hammers during the FedCom Civil War forced engineers to come up with a field modification that could be useful without the Heavy Gauss Rifles. The solution was to replace them with paired standard Gauss Rifles, ER Medium Lasers, and an ER Large Laser.\n\n<b><color=#e62e00>Quirk: Stable Weapons</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.18</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "Fafnir"
   },
   "simGameMechPartCost": 509630,
@@ -45,19 +45,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -90,28 +90,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -37,7 +37,7 @@
     "UIName": "Fafnir FNR-5",
     "Id": "mechdef_fafnir_FNR-5",
     "Name": "Fafnir FNR-5",
-    "Details": "The Fafnir was intended to become Defiance Industries of Hesperus' flagship BattleMech. The slow assault design serves as a platform for the pair of 'Thor's Hammers'. The Fafnir is built on a lightweight Foundation Type 220 Endo Steel chassis that is capable of supporting the Fafnir's massive weapons payload and armor while weighing half as much as a standard chassis.\n\n<b><color=#e62e00>Quirk: Stable Weapons</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.18</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The Fafnir was intended to become Defiance Industries of Hesperus' flagship BattleMech. The slow assault design serves as a platform for the pair of 'Thor's Hammers'. The Fafnir is built on a lightweight Foundation Type 220 Endo Steel chassis that is capable of supporting the Fafnir's massive weapons payload and armor while weighing half as much as a standard chassis.\n\n<b><color=#e62e00>Quirk: Stable Weapons</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.18</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "Fafnir"
   },
   "simGameMechPartCost": 514346,
@@ -45,19 +45,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -90,28 +90,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

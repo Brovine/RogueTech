@@ -39,7 +39,7 @@
     "UIName": "Koschei KSC-4I",
     "Id": "mechdef_koschei_KSC-4I",
     "Name": "Koschei KSC-4I",
-    "Details": "Bearing the distinction of being the second Mech to be created by the Capellan Confederation, the Koschei began production in 2504 though production would cease during the Succession Wars; with production restarting during the Jihad. A 65 ton Mech, the Koschei 4I is powered by a 325 rated engine giving it a top speed of 86km/h. An LB-10X with 2 tons of ammo is the Mechs main gun with paired Medium Pulse Lasers and Medium Lasers as backup weapons for close range combat.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Upper</color>\n\n",
+    "Details": "Bearing the distinction of being the second Mech to be created by the Capellan Confederation, the Koschei began production in 2504 though production would cease during the Succession Wars; with production restarting during the Jihad. A 65 ton Mech, the Koschei 4I is powered by a 325 rated engine giving it a top speed of 86km/h. An LB-10X with 2 tons of ammo is the Mechs main gun with paired Medium Pulse Lasers and Medium Lasers as backup weapons for close range combat.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Upper</color>",
     "Icon": "uixTxrIcon_koschei"
   },
   "simGameMechPartCost": 280701,
@@ -47,19 +47,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -92,28 +92,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 145,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 145,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

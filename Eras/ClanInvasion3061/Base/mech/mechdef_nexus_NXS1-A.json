@@ -37,7 +37,7 @@
   },
   "ChassisID": "chassisdef_nexus_NXS1-A",
   "Description": {
-    "Cost": 65748,
+    "Cost": 65185,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -45,27 +45,27 @@
     "UIName": "Nexus NXS1-A",
     "Id": "mechdef_nexus_NXS1-A",
     "Name": "Nexus NXS1-A",
-    "Details": "As a recon 'Mech intended to rarely engage an enemy in a pitched battle, the Nexus is armed with a Medium Laser backed up by two highly accurate Medium Pulse Lasers. As a weapon of last resort, the Nexus also has two Small Lasers. For added protection against missile attacks, the Nexus has an AMS. The Nexus has a top speed of 119 km/h and is powered by a 175 rated fusion engine which is both light and rugged. To save weight without the vulnerability of an XL engine, the Nexus is built on a Endo Steel chassis. For protection, the 'Mech carries a light two tons of Ferro-Fibrous armor, relying on its speed and maneuverability, which is enhanced with a jumping capability of up to one hundred and twenty meters. Finally, to handle the heat from the arsenal of energy weapons, the Nexus carries ten double heat sinks.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "As a recon 'Mech intended to rarely engage an enemy in a pitched battle, the Nexus is armed with a Medium Laser backed up by two highly accurate Medium Pulse Lasers. As a weapon of last resort, the Nexus also has two Small Lasers. For added protection against missile attacks, the Nexus has an AMS. The Nexus has a top speed of 119 km/h and is powered by a 175 rated fusion engine which is both light and rugged. To save weight without the vulnerability of an XL engine, the Nexus is built on a Endo Steel chassis. For protection, the 'Mech carries a light two tons of Ferro-Fibrous armor, relying on its speed and maneuverability, which is enhanced with a jumping capability of up to one hundred and twenty meters. Finally, to handle the heat from the arsenal of energy weapons, the Nexus carries ten double heat sinks.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_enforcer"
   },
-  "simGameMechPartCost": 65748,
+  "simGameMechPartCost": 65185,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 20,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 20,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 15,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 15,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -98,28 +98,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 15,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 15,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 25,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 25,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 25,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 25,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

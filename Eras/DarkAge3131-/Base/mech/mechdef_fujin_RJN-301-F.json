@@ -34,7 +34,7 @@
   },
   "ChassisID": "chassisdef_fujin_RJN-301-F",
   "Description": {
-    "Cost": 168551,
+    "Cost": 167037,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -42,27 +42,27 @@
     "UIName": "Fujin RJN-301-F",
     "Id": "mechdef_fujin_RJN-301-F",
     "Name": "Fujin RJN-301-F",
-    "Details": "The Fujin was designed to face the Combine's traditional enemy: the Federated Suns. The Fujin's speed and ER PPC allow it to track and destroy most enemy targets at long range as it moves into close combat. Its shell of ballistic-reinforced armor provides additional protection against Davion autocannons and missile weapons, allowing it to bring its array of SRM launchers and ER medium lasers to bear\n\n<b><color=#e62e00>Quirk: Extended Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The Fujin was designed to face the Combine's traditional enemy: the Federated Suns. The Fujin's speed and ER PPC allow it to track and destroy most enemy targets at long range as it moves into close combat. Its shell of ballistic-reinforced armor provides additional protection against Davion autocannons and missile weapons, allowing it to bring its array of SRM launchers and ER medium lasers to bear\n\n<b><color=#e62e00>Quirk: Extended Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_ionraptor"
   },
-  "simGameMechPartCost": 168551,
+  "simGameMechPartCost": 167037,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 70,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 70,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

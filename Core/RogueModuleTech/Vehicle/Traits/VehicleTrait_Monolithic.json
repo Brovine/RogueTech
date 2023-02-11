@@ -1,5 +1,15 @@
 {
   "Custom": {
+    "BonusDescriptions": [
+      "Defense: -1",
+      "Recoil: -2",
+      "NightVision",
+      "TACImmune",
+      "BreachImmunity",
+      "CritRes: 25%",
+      "Distracting: 1, 210",
+      "Intimidating: 50%, 210"
+    ],
     "Flags": [
       "not_broken",
       "not_destroyed",
@@ -9,17 +19,7 @@
     ],
     "IBLS": {
       "StorageSize": 1
-    },
-    "BonusDescriptions": [
-      "Defense: -1",
-      "Recoil: -2",
-      "NightVision",
-      "TACImmune",
-      "BreachImmunity",
-      "CritRes: 25%",
-      "Distracting: 5, 210",
-      "Intimidating: 50%, 210"
-    ]
+    }
   },
   "Description": {
     "Cost": 100000,
@@ -89,10 +89,10 @@
           },
           "nature": "Buff",
           "statisticData": {
-            "statName": "MoraleBonusGain",
-            "operation": "Int_Add",
-            "modValue": "-5",
-            "modType": "System.Int32"
+            "statName": "resolveRoundBaseMod",
+            "operation": "Float_Add",
+            "modValue": "-1",
+            "modType": "System.Single"
           }
         },
         {
@@ -284,7 +284,8 @@
       "WikiWL",
       "component_type_stock",
       "BAIncompatible",
-      "ProtoIncompatible"
+      "ProtoIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

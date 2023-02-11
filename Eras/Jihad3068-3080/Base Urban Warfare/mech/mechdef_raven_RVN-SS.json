@@ -33,7 +33,7 @@
   },
   "ChassisID": "chassisdef_raven_RVN-SS",
   "Description": {
-    "Cost": 125370,
+    "Cost": 124266,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -41,27 +41,27 @@
     "UIName": "Raven RVN-SS",
     "Id": "mechdef_raven_RVN-SS",
     "Name": "Raven RVN-SS",
-    "Details": "The so called ''Shattered Ravens'' were Federated Sun field refits of captured Capellan Ravens during Operation Sovereign Justice.  The SS variant was conceived to give the Raven more firepower and saw the Narc launcher in the left arm replaced by two medium and a small laser as well as an additional heatsink to help manage the additional heat. This configuration retains the Tag laser in the right torso and the SRM6 in the right torso along with its standard Beagle Probe and Guardian ECM.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The so called ''Shattered Ravens'' were Federated Sun field refits of captured Capellan Ravens during Operation Sovereign Justice.  The SS variant was conceived to give the Raven more firepower and saw the Narc launcher in the left arm replaced by two medium and a small laser as well as an additional heatsink to help manage the additional heat. This configuration retains the Tag laser in the right torso and the SRM6 in the right torso along with its standard Beagle Probe and Guardian ECM.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "Raven2"
   },
-  "simGameMechPartCost": 125370,
+  "simGameMechPartCost": 124266,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 33,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 33,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -94,28 +94,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 40,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

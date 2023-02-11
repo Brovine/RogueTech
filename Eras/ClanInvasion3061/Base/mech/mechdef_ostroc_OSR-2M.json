@@ -42,7 +42,7 @@
     "UIName": "Ostroc OSR-2M",
     "Id": "mechdef_ostroc_OSR-2M",
     "Name": "Ostroc OSR-2M",
-    "Details": "An experimental model produced by Kong Interstellar for the Free Worlds League in 2793, the 2M variant of the Ostroc focuses on the 'Mech's maneuverability. Five jump jets, two in each leg and one in the rear torso, have been added to the design, giving it a maximum jumping distance of one hundred and fifty meters. In order to make this change, the medium lasers and the SRM-4 launcher were removed. Relatively few of these were built between the League's annexation of Connaught and the factory's destruction.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "An experimental model produced by Kong Interstellar for the Free Worlds League in 2793, the 2M variant of the Ostroc focuses on the 'Mech's maneuverability. Five jump jets, two in each leg and one in the rear torso, have been added to the design, giving it a maximum jumping distance of one hundred and fifty meters. In order to make this change, the medium lasers and the SRM-4 launcher were removed. Relatively few of these were built between the League's annexation of Connaught and the factory's destruction.\n\n<b><color=#e62e00>Quirk: Narrow/Low Profile</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_ostroc"
   },
   "simGameMechPartCost": 264434,
@@ -50,19 +50,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

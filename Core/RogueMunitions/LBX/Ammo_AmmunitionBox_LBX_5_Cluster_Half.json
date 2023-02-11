@@ -15,15 +15,17 @@
       "DoesCluster",
       "AccuracyUnit: VTOL",
       "AccuracyUnit2: +2",
-      "AmmoCount: LBX/5,120",
-      "AmmoCost: 375"
+      "AmmoCount: LBX/5,10",
+      "AmmoCost: 375",
+      "AmmoBoxExplosionDHS: 22.5, 11.3, 5.6"
     ],
     "AmmoCost": {
       "PerUnitCost": 375
     },
     "ComponentExplosion": {
-      "ExplosionDamagePerAmmo": 45,
-      "StabilityDamagePerAmmo": 12
+      "ExplosionDamagePerAmmo": 22.5,
+      "HeatDamagePerAmmo": 11.25,
+      "StabilityDamagePerAmmo": 5.625
     },
     "Flags": [
       "not_broken"
@@ -40,7 +42,7 @@
     "Purchasable": true,
     "Manufacturer": "Generic",
     "Model": "LBX5CLUSTER",
-    "UIName": "Ammo LBX/5 CLUSTER",
+    "UIName": "Ammo LBX/5 CLUSTER [Half]",
     "Id": "Ammo_AmmunitionBox_LBX_5_Cluster_Half",
     "Name": "LBX5 Cluster Ammo",
     "Details": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",

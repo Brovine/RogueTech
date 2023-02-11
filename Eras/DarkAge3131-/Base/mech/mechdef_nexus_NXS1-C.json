@@ -35,7 +35,7 @@
   },
   "ChassisID": "chassisdef_nexus_NXS1-C",
   "Description": {
-    "Cost": 65748,
+    "Cost": 65185,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -43,27 +43,27 @@
     "UIName": "Nexus NXS1-C",
     "Id": "mechdef_nexus_NXS1-C",
     "Name": "Nexus NXS1-C",
-    "Details": "The general unpopularity of the Nexus, along with its link to the Word of Blake, drove it to the brink of extinction. It therefore came as a shock when a new variant, flagged as the NXS1-C, appeared in the reborn Com Guard during Malcolm Buhl's last stand on Epsilon Eridani. The -C proved more versatile than its predecessors. It was pressed into striker and anti-infantry support roles, and it proved deadly to the combined-arms formations of the Republic assault force.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The general unpopularity of the Nexus, along with its link to the Word of Blake, drove it to the brink of extinction. It therefore came as a shock when a new variant, flagged as the NXS1-C, appeared in the reborn Com Guard during Malcolm Buhl's last stand on Epsilon Eridani. The -C proved more versatile than its predecessors. It was pressed into striker and anti-infantry support roles, and it proved deadly to the combined-arms formations of the Republic assault force.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_enforcer"
   },
-  "simGameMechPartCost": 65748,
+  "simGameMechPartCost": 65185,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 35,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 35,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 25,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 25,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -96,28 +96,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 25,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 25,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 35,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 35,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 35,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 30,
       "AssignedArmor": 35,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

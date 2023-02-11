@@ -55,7 +55,7 @@
   },
   "ChassisID": "chassisdef_vapor_eagle_VGL-2",
   "Description": {
-    "Cost": 313444,
+    "Cost": 310628,
     "Rarity": 1,
     "Purchasable": true,
     "Manufacturer": null,
@@ -66,24 +66,24 @@
     "Details": "This variant of the Vapor Eagle removes two of the Medium Pulse Lasers, both Streak Missile pods, and the Large Pulse Laser as well as one of the 'Mechs double heat sinks in exchange for an Ultra Autocannon/10. Mounted in an over the shoulder arrangement like the venerable Shadow Hawk, the weapon fires at twice the rate of a standard Autocannon/10 and carries enough ammunition to continuously fire at its maximum rate of fire for over a minute and a half.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>",
     "Icon": "uixTxrIcon_vaporeagle"
   },
-  "simGameMechPartCost": 313444,
+  "simGameMechPartCost": 310628,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 45,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -116,28 +116,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 80,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 45,
       "AssignedArmor": 80,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

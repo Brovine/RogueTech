@@ -41,7 +41,7 @@
     "UIName": "Rifleman IIC 3",
     "Id": "mechdef_rifleman_iic_RFL-IIC-3",
     "Name": "Rifleman IIC 3",
-    "Details": "Following the surprise invasion of Huntress, most of the Clans looked to upgrade the defenders of their homeworlds. In so doing, Clan Cloud Cobra decided to upgrade their aging Rifleman IICs. The IIC 3 first entered service in the early part of 3062. Based upon the original design, it nonetheless uses two Model HHC-30 Ultra Autocannon/2s to plink at a target from long range. Any opponent who believes he or she is facing a IIC 2 is quickly surprised, however, when the IIC 3 opens up with its paired Series 4D-2 Heavy Large Lasers. Twenty one double heat sinks keep this design cool-running. This rebuilt version still mounts the Active Probe.\n\n<b><color=#e62e00>Quirk: Integrated Searchlight</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.15</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Following the surprise invasion of Huntress, most of the Clans looked to upgrade the defenders of their homeworlds. In so doing, Clan Cloud Cobra decided to upgrade their aging Rifleman IICs. The IIC 3 first entered service in the early part of 3062. Based upon the original design, it nonetheless uses two Model HHC-30 Ultra Autocannon/2s to plink at a target from long range. Any opponent who believes he or she is facing a IIC 2 is quickly surprised, however, when the IIC 3 opens up with its paired Series 4D-2 Heavy Large Lasers. Twenty one double heat sinks keep this design cool-running. This rebuilt version still mounts the Active Probe.\n\n<b><color=#e62e00>Quirk: Integrated Searchlight</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.15</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_riflemaniic"
   },
   "simGameMechPartCost": 368292,
@@ -49,19 +49,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -94,28 +94,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 150,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 150,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 150,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 150,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

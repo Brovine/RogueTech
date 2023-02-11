@@ -43,7 +43,7 @@
     "UIName": "Crucible 3",
     "Id": "mechdef_crucible_CRC-3",
     "Name": "Crucible 3",
-    "Details": "The standard Gauss Rifles have been replaced by HAG/20 cluster-firing gauss weapons. The Crucible carries four tons of ammunition for the HAGs. Supplementing this firepower is a Large Pulse Laser in each side torso. To protect against HAG explosions, CASE II is fitted to each side torso.\n\n<b><color=#e62e00>Quirk: Protected Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.24</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The standard Gauss Rifles have been replaced by HAG/20 cluster-firing gauss weapons. The Crucible carries four tons of ammunition for the HAGs. Supplementing this firepower is a Large Pulse Laser in each side torso. To protect against HAG explosions, CASE II is fitted to each side torso.\n\n<b><color=#e62e00>Quirk: Protected Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.24</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "stonerhino"
   },
   "simGameMechPartCost": 662519,
@@ -51,19 +51,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -96,28 +96,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

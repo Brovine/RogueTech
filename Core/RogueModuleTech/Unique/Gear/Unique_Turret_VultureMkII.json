@@ -6,7 +6,7 @@
       }
     ],
     "BonusDescriptions": [
-      "Turret: +3"
+      "AccuracyLocation: +3"
     ],
     "Flags": [
       "default",
@@ -77,7 +77,8 @@
       "component_type_stock",
       "TurretMount.{location}",
       "BAIncompatible",
-      "ProtoIncompatible"
+      "ProtoIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

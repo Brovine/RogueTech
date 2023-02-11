@@ -1,7 +1,7 @@
 {
     "Name": "RogueTech Core",
     "Enabled": true,
-    "Version": "HHR 1.0.0.0",
+    "Version": "HHR 1.0.7",
     "Description": "Contains the basic rules of RogueTech - Core Module",
     "Author": "LadyAlekto",
     "Website": "",
@@ -184,10 +184,6 @@
             "AddToDB": true
         },
         {
-            "Type": "AbilityDef",
-            "Path": "AItraits"
-        },
-        {
             "Type": "LanceDef",
             "Path": "Lances"
         },
@@ -208,6 +204,10 @@
             "Path": "Argo/statdesc"
         },
         {
+            "Type": "SimGameConversations",
+            "Path": "simGameConversations"
+        },
+        {
             "Type": "MovementCapabilitiesDef",
             "Path": "tankmovement"
         },
@@ -223,6 +223,10 @@
         {
             "Type": "CCHardpoints",
             "Path": "hardpoints"
+        },
+        {
+            "Type": "BaseDescriptionDef",
+            "Path": "tooltips"
         }
     ],
     "DependsOn": [

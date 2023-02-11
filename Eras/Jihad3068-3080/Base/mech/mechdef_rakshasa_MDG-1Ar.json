@@ -40,7 +40,7 @@
     "UIName": "Rakshasa MDG-1Ar",
     "Id": "mechdef_rakshasa_MDG-1Ar",
     "Name": "Rakshasa MDG-1Ar",
-    "Details": "The Rakshasa was designed by engineers at the New Avalon Institute of Science in an attempt to copy the Mad Cat. The finished product, while not as powerful as the OmniMech it emulates, is a powerful 'Mech with an undeserved bad reputation. The Rakshasa is powered by a GM 375 XL engine and built on a GM Marauder Special MD Endo Steel chassis to save weight and allow the 'Mech to carry as similar a weapons payload as possible to the Mad Cat.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The Rakshasa was designed by engineers at the New Avalon Institute of Science in an attempt to copy the Mad Cat. The finished product, while not as powerful as the OmniMech it emulates, is a powerful 'Mech with an undeserved bad reputation. The Rakshasa is powered by a GM 375 XL engine and built on a GM Marauder Special MD Endo Steel chassis to save weight and allow the 'Mech to carry as similar a weapons payload as possible to the Mad Cat.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "Rakshasa"
   },
   "simGameMechPartCost": 397523,
@@ -48,19 +48,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -93,28 +93,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

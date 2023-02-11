@@ -36,7 +36,7 @@
   },
   "ChassisID": "chassisdef_Valkyrie_VLK-LAM",
   "Description": {
-    "Cost": 84827,
+    "Cost": 84071,
     "Rarity": 1,
     "Purchasable": true,
     "Manufacturer": null,
@@ -47,24 +47,24 @@
     "Details": "A nice heavily armored scout, not too bad.  Probably best to keep it at range however, out of harm's range.  But an easy mech to find parts for and keep running.\n\n<b><color=#e62e00>Quirk: Land Air Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
     "Icon": "valkyrie"
   },
-  "simGameMechPartCost": 84827,
+  "simGameMechPartCost": 84071,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 36,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 36,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 25,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -97,28 +97,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 25,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 60,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 60,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 60,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 60,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

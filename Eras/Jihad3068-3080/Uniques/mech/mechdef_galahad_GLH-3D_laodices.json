@@ -8,7 +8,6 @@
       "unit_hero",
       "unit_advanced",
       "unit_legendary",
-      "unit_hero",
       "unit_release",
       "unit_lance_support",
       "unit_role_sniper",
@@ -44,7 +43,7 @@
     "UIName": "Galahad GLH-3D 'Laodices'",
     "Id": "mechdef_galahad_GLH-3D_laodices",
     "Name": "Galahad GLH-3D Laodices",
-    "Details": "This custom variant of the Galahad was used by Phantom Demi-Precentor Delta Laodices, a commander of the 40th Shadow Division. It uses a Small Cockpit, an Improved C3 Computer, one Light Gauss Rifle, and a Guardian ECM Suite - just like a standard 3D Galahad. It differs, however, in that it drops the other Light Gauss Rifle and one ton of ammunition, replacing them with an ER PPC enhanced by an experimental PPC Capacitor in the right arm. In addition, a Light PPC is mounted in the center torso. These modifications allow the 'Mech to remain in combat for far longer.\n\n<b><color=#e62e00>Quirk: Multi Trac</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.13</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "This custom variant of the Galahad was used by Phantom Demi-Precentor Delta Laodices, a commander of the 40th Shadow Division. It uses a Small Cockpit, an Improved C3 Computer, one Light Gauss Rifle, and a Guardian ECM Suite - just like a standard 3D Galahad. It differs, however, in that it drops the other Light Gauss Rifle and one ton of ammunition, replacing them with an ER PPC enhanced by an experimental PPC Capacitor in the right arm. In addition, a Light PPC is mounted in the center torso. These modifications allow the 'Mech to remain in combat for far longer.\n\n<b><color=#e62e00>Quirk: Multi Trac</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.13</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "Galahad"
   },
   "simGameMechPartCost": 278023,
@@ -52,19 +51,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -97,28 +96,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

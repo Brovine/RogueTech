@@ -225,7 +225,7 @@
         "effectsPersistAfterDestruction": false,
         "statName": "resolveRoundBaseMod",
         "operation": "Float_Add",
-        "modValue": "5",
+        "modValue": "2",
         "modType": "System.Single",
         "additionalRules": "NotSet",
         "targetCollection": "NotSet",
@@ -344,7 +344,8 @@
       "lv-shares-sensors",
       "lv-probe-boost_m4",
       "BAIncompatible",
-      "ProtoIncompatible"
+      "ProtoIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

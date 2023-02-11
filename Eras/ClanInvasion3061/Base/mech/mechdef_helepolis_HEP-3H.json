@@ -48,7 +48,7 @@
     "UIName": "Helepolis HEP-3H",
     "Id": "mechdef_helepolis_HEP-3H",
     "Name": "Helepolis HEP-3H",
-    "Details": "The Helepolis is built around an Armstrong Industries Sniper Artillery Piece. The accurate, long-range fire makes it effective against static defenses. The 'Mech does carry some backup weapons to augment its screening forces. It can defend itself with a Coventry Starfire LRM-10 and Nova Large Laser. If an enemy gets close, the MechWarrior can call upon a Thunderstroke SRM-6 and a Starflash Medium Laser. This 2625 model upgrades the Large Laser to an ER Large Laser.\n\n<b><color=#e62e00>Quirk: Stable</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.13</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Upper</color>\n\n",
+    "Details": "The Helepolis is built around an Armstrong Industries Sniper Artillery Piece. The accurate, long-range fire makes it effective against static defenses. The 'Mech does carry some backup weapons to augment its screening forces. It can defend itself with a Coventry Starfire LRM-10 and Nova Large Laser. If an enemy gets close, the MechWarrior can call upon a Thunderstroke SRM-6 and a Starflash Medium Laser. This 2625 model upgrades the Large Laser to an ER Large Laser.\n\n<b><color=#e62e00>Quirk: Stable</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.13</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Upper</color>",
     "Icon": "helepolis"
   },
   "simGameMechPartCost": 433278,
@@ -56,19 +56,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -101,28 +101,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 125,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 125,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 125,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 125,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

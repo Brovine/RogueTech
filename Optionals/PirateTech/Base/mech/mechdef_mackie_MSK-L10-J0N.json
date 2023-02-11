@@ -46,7 +46,7 @@
   },
   "ChassisID": "chassisdef_mackie_MSK-L10-J0N",
   "Description": {
-    "Cost": 523725,
+    "Cost": 519480,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -54,27 +54,27 @@
     "UIName": "Mackie MSK-L10-J0N",
     "Id": "mechdef_mackie_MSK-L10-J0N",
     "Name": "Mackie MSK-L10-J0N",
-    "Details": "Boss, what did you bring me this time?!? This thing is barely funcional, and it can't mount much of anything but missiles. Whatever yokel refit this thing absolutely LOVED his rockets, to the point that there is a sticker plastered on the cockpit viewscreen that just says 'Rocket Man'.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.24</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Boss, what did you bring me this time?!? This thing is barely funcional, and it can't mount much of anything but missiles. Whatever yokel refit this thing absolutely LOVED his rockets, to the point that there is a sticker plastered on the cockpit viewscreen that just says 'Rocket Man'.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.24</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "mackie"
   },
-  "simGameMechPartCost": 523725,
+  "simGameMechPartCost": 519480,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -107,28 +107,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 210,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 210,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 210,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 105,
       "AssignedArmor": 210,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

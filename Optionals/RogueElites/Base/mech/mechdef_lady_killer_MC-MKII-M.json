@@ -60,7 +60,7 @@
     "UIName": "Lady Killer MCII-M",
     "Id": "mechdef_lady_killer_MC-MKII-M",
     "Name": "Mad Cat Mk II MCII-M",
-    "Details": "This custom Mad Cat MkII is the personal ride of IlKhan Morphyum Kerensky, made infamous when he 'accidentally' fragged an allied BattleMech because he 'needed a hole to shoot the enemy through'. As could be imagined, the Lady Killer is an Autocannon specialist.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - AC</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.3</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "This custom Mad Cat MkII is the personal ride of IlKhan Morphyum Kerensky, made infamous when he 'accidentally' fragged an allied BattleMech because he 'needed a hole to shoot the enemy through'. As could be imagined, the Lady Killer is an Autocannon specialist.\n\n<b><color=#e62e00>Quirk: Accurate Weapon - AC</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.3</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "LadyKiller"
   },
   "simGameMechPartCost": 664580,
@@ -68,19 +68,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 135,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 135,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -113,28 +113,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 135,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 135,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 160,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 95,
       "AssignedArmor": 160,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 160,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 95,
       "AssignedArmor": 160,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -49,7 +49,7 @@
   },
   "ChassisID": "chassisdef_trooper_TP-1R",
   "Description": {
-    "Cost": 54512,
+    "Cost": 54042,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": null,
@@ -57,27 +57,27 @@
     "UIName": "Trooper TP-1R",
     "Id": "mechdef_trooper_TP-1R",
     "Name": "Flea TP-1R",
-    "Details": "The predecessor to the original Flea FLE-4 model, the Trooper TP-1R prototype was built in 2475, by Toddlette Industries, on a primitive chassis and maintained ground speeds of nearly 100 kph.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.75</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The predecessor to the original Flea FLE-4 model, the Trooper TP-1R prototype was built in 2475, by Toddlette Industries, on a primitive chassis and maintained ground speeds of nearly 100 kph.\n\n<b><color=#e62e00>Quirk: Improved Lifesupport</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.75</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "flea"
   },
-  "simGameMechPartCost": 54512,
+  "simGameMechPartCost": 54042,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 15,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 15,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 15,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 15,
       "AssignedArmor": 15,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -110,28 +110,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 15,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 15,
       "AssignedArmor": 15,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 20,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 20,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 20,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 20,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

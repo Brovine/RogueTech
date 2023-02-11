@@ -34,7 +34,7 @@
   },
   "ChassisID": "chassisdef_no-dachi_NDA-2K0",
   "Description": {
-    "Cost": 283761,
+    "Cost": 281316,
     "Rarity": 1,
     "Purchasable": true,
     "Manufacturer": null,
@@ -42,27 +42,27 @@
     "UIName": "No-Dachi NDA-2K0",
     "Id": "mechdef_no-dachi_NDA-2K0",
     "Name": "No-Dachi NDA-2K0",
-    "Details": "The newer 2KO was designed to be even more lethal up-close than the 2K. This variant removes the MRMs entirely and changes the Large Laser to a Large Pulse Laser. An additional Medium Pulse Laser and Small Pulse Laser were added, as well as a Flamer and three more double heat sinks. A ton and a half of armor has been added to the 'Mech's rear to provide addition protection as has a pair of ER Medium Lasers.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.1</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Lower</color>\n\n",
+    "Details": "The newer 2KO was designed to be even more lethal up-close than the 2K. This variant removes the MRMs entirely and changes the Large Laser to a Large Pulse Laser. An additional Medium Pulse Laser and Small Pulse Laser were added, as well as a Flamer and three more double heat sinks. A ton and a half of armor has been added to the 'Mech's rear to provide addition protection as has a pair of ER Medium Lasers.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.1</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
     "Icon": "NoDachi"
   },
-  "simGameMechPartCost": 283761,
+  "simGameMechPartCost": 281316,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 150,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 150,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 150,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 150,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

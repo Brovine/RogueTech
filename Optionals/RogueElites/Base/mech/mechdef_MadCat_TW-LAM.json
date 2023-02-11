@@ -61,7 +61,7 @@
   },
   "ChassisID": "chassisdef_MadCat_TW-LAM",
   "Description": {
-    "Cost": 457152,
+    "Cost": 452972,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": null,
@@ -69,27 +69,27 @@
     "UIName": "Mad Cat TW-LAM",
     "Id": "mechdef_MadCat_TW-LAM",
     "Name": "Mad Cat",
-    "Details": "Boss, this is mostly a Timber Wolf but some goomba has crammed parts of two different LAM conversion systems in there, looks like a Champion and a Phoenix Hawk. It really shouldn't work, like ever... but looks like it will. It'll fly like a brick though, so don't expect it to perform anything as well as either of it's half-parents.\n\n<b><color=#e62e00>Quirk: Land Air Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.15</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "Boss, this is mostly a Timber Wolf but some goomba has crammed parts of two different LAM conversion systems in there, looks like a Champion and a Phoenix Hawk. It really shouldn't work, like ever... but looks like it will. It'll fly like a brick though, so don't expect it to perform anything as well as either of it's half-parents.\n\n<b><color=#e62e00>Quirk: Land Air Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.15</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "Timberwolf"
   },
-  "simGameMechPartCost": 457152,
+  "simGameMechPartCost": 452972,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -122,28 +122,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 95,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 95,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 95,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 95,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

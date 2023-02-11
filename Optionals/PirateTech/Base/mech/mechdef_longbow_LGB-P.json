@@ -93,7 +93,7 @@
     "UIName": "Longbow LGB-P",
     "Id": "mechdef_longbow_LGB-P",
     "Name": "Longbow LGB-P",
-    "Details": "Well, it is a Longbow, for the most parts just a pretty normal looking one too, and if it werent for that engine and these weird Thunderbolt '30' id say they just stole it somewhere......\n\n<b><color=#e62e00>Quirk: Integrated Searchlight</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.13</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Well, it is a Longbow, for the most parts just a pretty normal looking one too, and if it werent for that engine and these weird Thunderbolt '30' id say they just stole it somewhere......\n\n<b><color=#e62e00>Quirk: Integrated Searchlight</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.13</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_longbow"
   },
   "simGameMechPartCost": 444252,
@@ -101,19 +101,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -146,28 +146,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 120,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 70,
       "AssignedArmor": 120,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 90,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

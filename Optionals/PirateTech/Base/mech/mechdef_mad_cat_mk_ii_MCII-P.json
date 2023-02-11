@@ -46,7 +46,7 @@
     "UIName": "Mad Cat Mk II P",
     "Id": "mechdef_mad_cat_mk_ii_MCII-P",
     "Name": "Mad Cat Mk II P",
-    "Details": "The sales model of the Mad Cat MK II lacks many important Clan upgrades, being equipped with basic Free Inner Sphere technology and downgraded Electronics is it still a capable foe.\n\n<b><color=#e62e00>Quirk: Variable Range Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.22</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The sales model of the Mad Cat MK II lacks many important Clan upgrades, being equipped with basic Free Inner Sphere technology and downgraded Electronics is it still a capable foe.\n\n<b><color=#e62e00>Quirk: Variable Range Targeting</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.22</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_madcatmkii"
   },
   "simGameMechPartCost": 523250,
@@ -54,19 +54,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -99,28 +99,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 180,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 95,
       "AssignedArmor": 180,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 180,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 95,
       "AssignedArmor": 180,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

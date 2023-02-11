@@ -59,7 +59,7 @@
   },
   "ChassisID": "chassisdef_roughneck_RGH-1B",
   "Description": {
-    "Cost": 280701,
+    "Cost": 278148,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": null,
@@ -70,24 +70,24 @@
     "Details": "A militarized BattleMech version of Achernar's Loader King IndustrialMech, the Roughneck is a low-cost heavy 'Mech intended for price conscious buyers such as planetary militias and down-on-their-luck mercenary units. The Roughneck-1B swaps the AC/10 of the -1A for an AC/5 and upgrades the missiles to a pair of SRM 6 racks. The Small Laser and two of the Machine Guns are retained.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.07</color></b>",
     "Icon": "uixTxrIcon_roughneck"
   },
-  "simGameMechPartCost": 280701,
+  "simGameMechPartCost": 278148,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -120,28 +120,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 50,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 135,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 135,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 135,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 135,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -34,7 +34,7 @@
   },
   "ChassisID": "chassisdef_penetrator_PTR-4F",
   "Description": {
-    "Cost": 393889,
+    "Cost": 390321,
     "Rarity": 1,
     "Purchasable": true,
     "Manufacturer": null,
@@ -42,27 +42,27 @@
     "UIName": "Penetrator PTR-4F",
     "Id": "mechdef_penetrator_PTR-4F",
     "Name": "Penetrator PTR-4F",
-    "Details": "Intended to act as a fire support 'Mech, The PTR-4F Penetrator sacrifices two of its Medium Pulse Lasers and the ER Large Lasers, freeing enough tonnage to add two LRM-10 missile launchers. The LRM-10s were then mated to Artemis IV fire control systems for added accuracy.\n\n<b><color=#e62e00>Quirk: Stable</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "Intended to act as a fire support 'Mech, The PTR-4F Penetrator sacrifices two of its Medium Pulse Lasers and the ER Large Lasers, freeing enough tonnage to add two LRM-10 missile launchers. The LRM-10s were then mated to Artemis IV fire control systems for added accuracy.\n\n<b><color=#e62e00>Quirk: Stable</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "Penetrator"
   },
-  "simGameMechPartCost": 393889,
+  "simGameMechPartCost": 390321,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 105,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 60,
       "AssignedArmor": 105,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 130,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 130,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

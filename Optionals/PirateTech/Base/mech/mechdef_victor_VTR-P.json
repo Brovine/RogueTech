@@ -52,7 +52,7 @@
     "UIName": "Victor VTR-P",
     "Id": "mechdef_victor_VTR-P",
     "Name": "Victor VTR-P",
-    "Details": "While still Pretty much a Victor, it looks as if they tried to 'upgrade' the AC20, totally screwing up the entire balance and chassis. It has DOOMGUY written all over...\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.12</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Upper</color>\n\n",
+    "Details": "While still Pretty much a Victor, it looks as if they tried to 'upgrade' the AC20, totally screwing up the entire balance and chassis. It has DOOMGUY written all over...\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.12</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Upper</color>",
     "Icon": "uixTxrIcon_victor"
   },
   "simGameMechPartCost": 424811,
@@ -60,19 +60,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 75,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 75,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -105,28 +105,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 75,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 75,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 100,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 85,
       "AssignedArmor": 100,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

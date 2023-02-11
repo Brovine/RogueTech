@@ -31,7 +31,7 @@
   },
   "ChassisID": "chassisdef_banshee_BNC-12S",
   "Description": {
-    "Cost": 473468,
+    "Cost": 469286,
     "Rarity": 4,
     "Purchasable": true,
     "Manufacturer": null,
@@ -39,27 +39,27 @@
     "UIName": "Banshee BNC-12S",
     "Id": "mechdef_banshee_BNC-12S",
     "Name": "Banshee BNC-12S",
-    "Details": "The -12S builds upon the endo-steel chassis of prior models, upgrading it with a home-built Clan-grade engine and lasers. The weight savings enabled Defiance’s engineers to follow the weaponry layout of the -3S. Armor levels match the toughest Banshees, creating a very strong and fast assault ’Mech, albeit one with a challenging heat curve. Alpha-striking will shut the ’Mech down, so MechWarriors are advised to use either the main or secondary weapons, but not both at once.\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.17</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Lower</color>\n\n",
+    "Details": "The -12S builds upon the endo-steel chassis of prior models, upgrading it with a home-built Clan-grade engine and lasers. The weight savings enabled Defiance’s engineers to follow the weaponry layout of the -3S. Armor levels match the toughest Banshees, creating a very strong and fast assault ’Mech, albeit one with a challenging heat curve. Alpha-striking will shut the ’Mech down, so MechWarriors are advised to use either the main or secondary weapons, but not both at once.\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.17</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
     "Icon": "uixTxrIcon_banshee"
   },
-  "simGameMechPartCost": 473468,
+  "simGameMechPartCost": 469286,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 160,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 160,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -92,28 +92,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 160,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 80,
       "AssignedArmor": 160,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 190,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 100,
       "AssignedArmor": 190,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 190,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 100,
       "AssignedArmor": 190,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

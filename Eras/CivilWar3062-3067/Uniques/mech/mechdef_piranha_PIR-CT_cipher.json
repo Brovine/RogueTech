@@ -33,7 +33,7 @@
   },
   "ChassisID": "chassisdef_piranha_PIR-CT_cipher",
   "Description": {
-    "Cost": 74544,
+    "Cost": 73957,
     "Rarity": 2,
     "Purchasable": true,
     "Manufacturer": null,
@@ -44,24 +44,24 @@
     "Details": "The Piranha Hero 'Mech, the Cipher carries three Machine Guns and three ER Micro Lasers in each side torso supported by a single Heavy Medium Laser in each arm and a center torso ER Small Laser. Carrying two tons of machine gun ammunition and ten double heat sinks, the Cipher is built on an 180 XL engine, an Endo Steel frame and is covered by just three tons of Ferro-Fibrous armor.\n\n<b><color=#e62e00>Quirk: Improved Targeting - Short</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.08</color></b>",
     "Icon": "uixTxrIcon_piranha"
   },
-  "simGameMechPartCost": 74544,
+  "simGameMechPartCost": 73957,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 40,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 40,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 15,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -94,28 +94,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 15,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 30,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 20,
       "AssignedArmor": 30,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

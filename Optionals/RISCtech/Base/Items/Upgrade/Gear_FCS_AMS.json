@@ -13,7 +13,6 @@
     },
     "BonusDescriptions": [
       "AMSJam: -30%",
-      "OLAMSJam: -30%",
       "AMSDmg: 1",
       "FCS"
     ],
@@ -117,7 +116,8 @@
       "component_type_stock",
       "BLACKLISTED",
       "BAIncompatible",
-      "ProtoIncompatible"
+      "ProtoIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

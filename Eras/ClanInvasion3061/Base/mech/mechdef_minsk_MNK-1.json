@@ -34,7 +34,7 @@
   },
   "ChassisID": "chassisdef_minsk_MNK-1",
   "Description": {
-    "Cost": 378773,
+    "Cost": 375419,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": null,
@@ -42,27 +42,27 @@
     "UIName": "Minsk MNK-1",
     "Id": "mechdef_minsk_MNK-1",
     "Name": "Minsk MNK-1",
-    "Details": "The first Mech to be produced by the Ghost Bears, the 70 ton Minsk entered production in 2830. Surpassed in performance by newer designs, the Minsk fell out of favour and was eventually retired. Powered by a 210 rated Fusion Core, the Minsk 1 is armed with a pair of Gauss Rifles and an LRM-10. Paired SRM-6’s, Small Pulse Lasers, B-Pods and Machine Guns add additional fire power at close range. An Active Probe allows the Minsk to spot hidden opponents.n\n\n\n<b><color=#e62e00>Quirk: Protected Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The first Mech to be produced by the Ghost Bears, the 70 ton Minsk entered production in 2830. Surpassed in performance by newer designs, the Minsk fell out of favour and was eventually retired. Powered by a 210 rated Fusion Core, the Minsk 1 is armed with a pair of Gauss Rifles and an LRM-10. Paired SRM-6’s, Small Pulse Lasers, B-Pods and Machine Guns add additional fire power at close range. An Active Probe allows the Minsk to spot hidden opponents.n\n\n\n<b><color=#e62e00>Quirk: Protected Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "Minsk"
   },
-  "simGameMechPartCost": 378773,
+  "simGameMechPartCost": 375419,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -95,28 +95,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

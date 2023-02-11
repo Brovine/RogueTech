@@ -60,7 +60,7 @@
     "UIName": "Highlander HGN-641-X-2",
     "Id": "mechdef_highlander_HGN-641-X-2",
     "Name": "Highlander HGN-641-X-2",
-    "Details": "This ComStar developed variant is equipped with a pair of Artemis IV-equipped MML-7 launchers with four tons of ammo. It keeps the Gauss Rifle of the standard Highlander and mounts a pair of ER Medium Lasers. CASE II systems protect the Gauss Rifle and missile ammunition from explosions. A C3 Slave unit allows the Highlander to share targeting data.\n\n<b><color=#e62e00>Quirk: Reinforced Legs</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.24</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>\n\n",
+    "Details": "This ComStar developed variant is equipped with a pair of Artemis IV-equipped MML-7 launchers with four tons of ammo. It keeps the Gauss Rifle of the standard Highlander and mounts a pair of ER Medium Lasers. CASE II systems protect the Gauss Rifle and missile ammunition from explosions. A C3 Slave unit allows the Highlander to share targeting data.\n\n<b><color=#e62e00>Quirk: Reinforced Legs</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.24</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>",
     "Icon": "uixTxrIcon_highlander"
   },
   "simGameMechPartCost": 536357,
@@ -69,19 +69,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 150,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 150,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -114,28 +114,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 150,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 150,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 95,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 95,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

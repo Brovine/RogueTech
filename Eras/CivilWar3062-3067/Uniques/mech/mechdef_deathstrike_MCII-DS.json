@@ -43,7 +43,7 @@
     "UIName": "Mad Cat Mk II MCII-DS 'Deathstrike'",
     "Id": "mechdef_deathstrike_MCII-DS",
     "Name": "Mad Cat Mk II MCII-DS",
-    "Details": "Though bearing a remarkable outward resemblance to the Timberwolf, this BattleMech is a new and powerful creation. Carrying thirteen tons of ferro-fibrous armor, the Mad Cat MK II is an incredibly resilient design. A pair of arm mounted Gaussrifles supported by torso mounted LRM racks give it complete command over the battlefield. \n\n<b><color=#e62e00>Quirk: Improved Targeting - Medium</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.27</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "Though bearing a remarkable outward resemblance to the Timberwolf, this BattleMech is a new and powerful creation. Carrying thirteen tons of ferro-fibrous armor, the Mad Cat MK II is an incredibly resilient design. A pair of arm mounted Gaussrifles supported by torso mounted LRM racks give it complete command over the battlefield. \n\n<b><color=#e62e00>Quirk: Improved Targeting - Medium</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.27</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_madcatmkii"
   },
   "simGameMechPartCost": 625750,
@@ -51,19 +51,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 135,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 135,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -96,28 +96,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 135,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 135,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 95,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 170,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 95,
       "AssignedArmor": 170,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

@@ -19,7 +19,7 @@
       "ActiveEWS: 2, 2, 180",
       "EWSSelf: 3, 2",
       "EWSProbe: 8%, 1, 1, 150",
-      "UAV: 310, 2, 15"
+      "EWARScan: 310, 2, 15"
     ],
     "ActivatableComponent": {
       "CanNotBeActivatedManualy": true,
@@ -522,7 +522,8 @@
       "component_type_stock",
       "ElectronicCounterMeasures",
       "BAIncompatible",
-      "ProtoIncompatible"
+      "ProtoIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

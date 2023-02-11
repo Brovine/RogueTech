@@ -35,7 +35,7 @@
   },
   "ChassisID": "chassisdef_minsk_MNK-2",
   "Description": {
-    "Cost": 385667,
+    "Cost": 382188,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": null,
@@ -43,27 +43,27 @@
     "UIName": "Minsk MNK-2",
     "Id": "mechdef_minsk_MNK-2",
     "Name": "Minsk MNK-2",
-    "Details": "Reintroduced in 3148, the Minsk 2 is an updated copy of the Golden Age Minsk MNK-1. Developed for second line units in the Rasalhague Dominion, the Minsk 2 is a 70 ton Mech. Powered by a 210 rated Fusion Core, the MSK-2 is armed with a pair of Capacitor enhanced ER PPCs and a Mech Mortar/6. Paired Streak SRM-6s, Small Pulse Lasers and B-Pods add additional firepower at close range. An Active Probe allows the Minsk to spot hidden opponents while an Angel ECM shields the Mech from enemy sensors.\n\n<b><color=#e62e00>Quirk: Protected Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "Reintroduced in 3148, the Minsk 2 is an updated copy of the Golden Age Minsk MNK-1. Developed for second line units in the Rasalhague Dominion, the Minsk 2 is a 70 ton Mech. Powered by a 210 rated Fusion Core, the MSK-2 is armed with a pair of Capacitor enhanced ER PPCs and a Mech Mortar/6. Paired Streak SRM-6s, Small Pulse Lasers and B-Pods add additional firepower at close range. An Active Probe allows the Minsk to spot hidden opponents while an Angel ECM shields the Mech from enemy sensors.\n\n<b><color=#e62e00>Quirk: Protected Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "Minsk"
   },
-  "simGameMechPartCost": 385667,
+  "simGameMechPartCost": 382188,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -96,28 +96,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 110,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 110,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 140,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 75,
       "AssignedArmor": 140,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

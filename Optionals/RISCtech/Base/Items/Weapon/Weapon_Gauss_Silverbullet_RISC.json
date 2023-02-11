@@ -18,14 +18,14 @@
       "DoesCluster",
       "WeaponClustering: +5",
       "ExplodiumFlat: 20%",
-      "WeaponGaussBoom: 200",
       "IsRISCSBGauss",
-      "AAFactor: 40%"
+      "AAFactor: 40%",
+      "WeaponExplosionInertAmmo: 15, 2.5, 1.3"
     ],
     "ComponentExplosion": {
-      "ExplosionDamagePerAmmo": 200,
-      "StabilityDamagePerAmmo": 25,
-      "HeatDamagePerAmmo": 25
+      "ExplosionDamagePerAmmo": 15.0,
+      "HeatDamagePerAmmo": 2.5,
+      "StabilityDamagePerAmmo": 1.25
     },
     "Flags": [
       "not_broken",
@@ -146,7 +146,8 @@
       "OmniRestriction.{location}",
       "component_type_stock",
       "range_very-long",
-      "BAIncompatible"
+      "BAIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

@@ -73,7 +73,7 @@
     "UIName": "Blackjack BJ-2A",
     "Id": "mechdef_blackjack_BJ-2A",
     "Name": "Blackjack BJ-2A",
-    "Details": "The BJ-2 was introduced in 3052 by the Federated Suns as the new production model of the Blackjack, based on earlier experimental designs. It upgrades the 'Mech with two Diverse Optics Sunbeam ER Large Lasers in place of the autocannons and removes the medium lasers for four Hovertec Streak SRM-2 launchers, two each in the left and right sides of the torso. One ton of ammo for the launchers is kept in the left torso while the standard heat sinks were upgraded to double heat sinks.\n\n<b><color=#e62e00>Quirk: Extended Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.03</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>\n\n",
+    "Details": "The BJ-2 was introduced in 3052 by the Federated Suns as the new production model of the Blackjack, based on earlier experimental designs. It upgrades the 'Mech with two Diverse Optics Sunbeam ER Large Lasers in place of the autocannons and removes the medium lasers for four Hovertec Streak SRM-2 launchers, two each in the left and right sides of the torso. One ton of ammo for the launchers is kept in the left torso while the standard heat sinks were upgraded to double heat sinks.\n\n<b><color=#e62e00>Quirk: Extended Torso Twist</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.03</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
     "Icon": "uixTxrIcon_blackjack"
   },
   "simGameMechPartCost": 154533,
@@ -81,19 +81,19 @@
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 60,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 60,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -126,28 +126,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 60,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 35,
       "AssignedArmor": 60,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 85,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 85,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 85,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 55,
       "AssignedArmor": 85,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

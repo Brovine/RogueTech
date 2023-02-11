@@ -33,7 +33,7 @@
   },
   "ChassisID": "chassisdef_dervish_iic_DV-IIC-0",
   "Description": {
-    "Cost": 316313,
+    "Cost": 313444,
     "Rarity": 1,
     "Purchasable": true,
     "Manufacturer": null,
@@ -41,27 +41,27 @@
     "UIName": "Dervish IIC",
     "Id": "mechdef_dervish_iic_DV-IIC-0",
     "Name": "Dervish IIC",
-    "Details": "The Dervish IIC-0, a 55-ton Clan refit of the Star-League-era Dervish, was first seen in 3058 along the Smoke Jaguar front bordering the Draconis Combine. It has similar movement and jump capabilities to the original Dervish, but carries significantly more firepower.\n\n<b><color=#e62e00>Quirk: Hyper-Extending Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>\n\n",
+    "Details": "The Dervish IIC-0, a 55-ton Clan refit of the Star-League-era Dervish, was first seen in 3058 along the Smoke Jaguar front bordering the Draconis Combine. It has similar movement and jump capabilities to the original Dervish, but carries significantly more firepower.\n\n<b><color=#e62e00>Quirk: Hyper-Extending Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.11</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
     "Icon": "uixTxrIcon_dervish"
   },
-  "simGameMechPartCost": 316313,
+  "simGameMechPartCost": 313444,
   "Locations": [
     {
       "Location": "Head",
       "CurrentArmor": 45,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 16,
       "AssignedArmor": 45,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 45,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
@@ -94,28 +94,28 @@
     {
       "Location": "RightArm",
       "CurrentArmor": 90,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 45,
       "AssignedArmor": 90,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "LeftLeg",
       "CurrentArmor": 125,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 125,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     },
     {
       "Location": "RightLeg",
       "CurrentArmor": 125,
-      "CurrentRearArmor": -1,
+      "CurrentRearArmor": 0,
       "CurrentInternalStructure": 65,
       "AssignedArmor": 125,
-      "AssignedRearArmor": -1,
+      "AssignedRearArmor": 0,
       "DamageLevel": "Functional"
     }
   ],

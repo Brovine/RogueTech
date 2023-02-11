@@ -23,7 +23,7 @@
     }
   ],
   "Description": {
-    "Cost": 850472,
+    "Cost": 842757,
     "Rarity": 4,
     "Purchasable": true,
     "Manufacturer": "",
@@ -31,7 +31,7 @@
     "UIName": "Trebuchet",
     "Id": "chassisdef_trebuchet_TBT-5S",
     "Name": "Trebuchet",
-    "Details": "The TBT-5S shifts from long range to short range support. With SRM6s instead of LRM15s and eight extra Heat Sinks, the 5S is able to dish out a tremendous amount of close range damage.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>\n\n",
+    "Details": "The TBT-5S shifts from long range to short range support. With SRM6s instead of LRM15s and eight extra Heat Sinks, the 5S is able to dish out a tremendous amount of close range damage.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<br><br><color=#FFEF00>Arm Actuator Limit: Right Lower</color>",
     "Icon": "uixTxrIcon_trebuchet"
   },
   "VariantName": "TBT-5S",
@@ -141,6 +141,10 @@
     {
       "Location": "RightTorso",
       "Hardpoints": [
+        {
+          "WeaponMountID": "Missile",
+          "Omni": false
+        },
         {
           "WeaponMountID": "Missile",
           "Omni": false

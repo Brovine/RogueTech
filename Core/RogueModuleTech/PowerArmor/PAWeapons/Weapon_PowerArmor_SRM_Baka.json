@@ -50,8 +50,8 @@
   "AccuracyModifier": 0,
   "CriticalChanceMultiplier": 1,
   "APArmorShardsMod": 0.35,
-  "APMaxArmorThickness": 60,
-  "APCriticalChanceMultiplier": 0.045,
+  "APMaxArmorThickness": 50,
+  "APCriticalChanceMultiplier": 0.038,
   "AOECapable": false,
   "IndirectFireCapable": false,
   "RefireModifier": 0,
@@ -91,7 +91,8 @@
     "items": [
       "component_type_stock",
       "PAWeapon",
-      "range_close"
+      "range_close",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }

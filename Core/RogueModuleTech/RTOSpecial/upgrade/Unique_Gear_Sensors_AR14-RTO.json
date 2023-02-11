@@ -30,7 +30,7 @@
       "CockpitEWS",
       "EWSSelf: 6, 6",
       "EWSProbe: 15%, 2, 2, 200",
-      "UAV: 310, 2, 15"
+      "EWARScan: 310, 2, 15"
     ],
     "ActivatableComponent": {
       "CanNotBeActivatedManualy": true,
@@ -311,7 +311,8 @@
       "lv-shares-sensors",
       "ElectronicCounterMeasures",
       "BAIncompatible",
-      "ProtoIncompatible"
+      "ProtoIncompatible",
+      "LootMagnetBlacklist"
     ],
     "tagSetSourceFile": ""
   }
